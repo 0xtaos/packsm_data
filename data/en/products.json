@@ -1,0 +1,2061 @@
+{
+  "version": "2.1.0",
+  "lastUpdated": "2024-02-05",
+  "company": {
+    "name": "PACKBN",
+    "fullName": "Packbn Import Export Co., Ltd",
+    "established": 2005,
+    "location": "Hanoi, Vietnam",
+    "factory": "Di Trach Industrial Zone - Hoai Duc District, Hanoi",
+    "capacity": "3,000 tons/month",
+    "workforce": "1,000+ workers",
+    "contact": "0904.636.473"
+  },
+  "categories": [
+    {
+      "id": "cups",
+      "name": "Paper Cups",
+      "nameVi": "Ly & Cốc Giấy",
+      "description": "Paper cups in various sizes from 3oz to 22oz, suitable for coffee, bubble tea and beverages",
+      "longDescription": "Our premium paper cups are designed to meet all your beverage needs - from hot espresso to iced bubble tea. With advanced manufacturing technology, PACKBN paper cups ensure absolute leak-proof, excellent insulation, and eco-friendliness. Available in sizes from 3oz to 22oz, suitable for all business types from small coffee shops to large chains.",
+      "image": "/images/product-cup.jpg",
+      "heroImage": "/images/hero/cups.jpg",
+      "features": ["Leak-proof", "Insulated", "Eco-friendly"],
+      "benefits": [
+        { "icon": "Droplets", "title": "100% Leak-proof", "description": "Advanced PE coating technology prevents any leakage" },
+        { "icon": "Thermometer", "title": "Excellent Insulation", "description": "Maintains beverage temperature while protecting hands" },
+        { "icon": "Leaf", "title": "Biodegradable", "description": "100% from natural materials, eco-friendly" },
+        { "icon": "Palette", "title": "Custom Printing", "description": "Support brand logo printing from 5,000 cups" }
+      ],
+      "stats": { "sizes": "10+", "capacity": "3oz - 22oz", "moq": "1,000" },
+      "specsId": "category-cups"
+    },
+    {
+      "id": "bowls",
+      "name": "Paper Bowls",
+      "nameVi": "Tô & Bát Giấy",
+      "description": "Paper bowls for pho, salad, ice cream with sizes from 4oz to 36oz",
+      "longDescription": "PACKBN paper bowls are the perfect solution for hot dishes like pho, noodles, porridge, as well as salads and ice cream. Sturdy design with heat resistance up to 100°C, no deformation when containing hot food. Tight-fitting lids ensure no spillage during transport.",
+      "image": "/images/product-bowl.jpg",
+      "heroImage": "/images/hero/bowls.jpg",
+      "features": ["Heat resistant", "Multiple sizes", "Lids available"],
+      "benefits": [
+        { "icon": "Flame", "title": "Heat Resistant to 100°C", "description": "Perfect for soups, pho, hot noodles" },
+        { "icon": "Shield", "title": "Oil & Grease Proof", "description": "No oil seepage, maintains shape" },
+        { "icon": "Package", "title": "Convenient Lids", "description": "Tight fit, easy open/close, no spills" },
+        { "icon": "Recycle", "title": "Recyclable", "description": "Made from recycled paper, biodegradable" }
+      ],
+      "stats": { "sizes": "8+", "capacity": "4oz - 36oz", "moq": "1,000" },
+      "specsId": "category-bowls"
+    },
+    {
+      "id": "straws",
+      "name": "Paper Straws",
+      "nameVi": "Ống Hút Giấy",
+      "description": "Paper straws 6mm, 8mm, 12mm - perfect replacement for plastic straws",
+      "longDescription": "PACKBN paper straws are the perfect replacement for plastic straws, helping businesses reduce plastic waste and protect the environment. With 3-layer premium paper structure, straws won't get soggy in water for extended periods. Multiple sizes suitable for all types of beverages.",
+      "image": "/images/product-straws.jpg",
+      "heroImage": "/images/hero/straws.jpg",
+      "features": ["Biodegradable", "Multiple colors", "Individually wrapped"],
+      "benefits": [
+        { "icon": "Clock", "title": "Won't Get Soggy", "description": "Maintains shape for 24h+ in water" },
+        { "icon": "Sparkles", "title": "No Aftertaste", "description": "Won't affect beverage flavor" },
+        { "icon": "WrapText", "title": "Individually Wrapped", "description": "Each straw individually wrapped for hygiene" },
+        { "icon": "Heart", "title": "Health Safe", "description": "BPA-free, food-grade safe" }
+      ],
+      "stats": { "sizes": "3", "diameters": "6mm - 12mm", "moq": "10,000" },
+      "specsId": "category-straws"
+    },
+    {
+      "id": "containers",
+      "name": "Food Containers",
+      "nameVi": "Hộp Đựng Thực Phẩm",
+      "description": "Kraft paper boxes, plates and trays for hot and cold food",
+      "longDescription": "Kraft paper food containers are a sustainable packaging solution for the food industry. Sturdy design with convenient lids, perfect for take-away and delivery services. Natural unbleached Kraft material provides a friendly and professional feel.",
+      "image": "/images/product-box.jpg",
+      "heroImage": "/images/hero/containers.jpg",
+      "features": ["Secure lids", "Leak-proof", "Multiple sizes"],
+      "benefits": [
+        { "icon": "Lock", "title": "Safe Lock Lids", "description": "Secure locking tabs prevent spills" },
+        { "icon": "Thermometer", "title": "Good Heat Retention", "description": "Suitable for hot and cold food" },
+        { "icon": "Microwave", "title": "Microwave Safe", "description": "Can be heated in microwave" },
+        { "icon": "Truck", "title": "Delivery Ready", "description": "Optimized design for transport" }
+      ],
+      "stats": { "sizes": "15+", "capacity": "500ml - 2000ml", "moq": "500" },
+      "specsId": "category-containers"
+    },
+    {
+      "id": "wooden",
+      "name": "Wooden Products",
+      "nameVi": "Sản Phẩm Gỗ",
+      "description": "Natural wooden cutlery - eco-friendly alternative to plastic disposables",
+      "longDescription": "PACKBN natural wooden utensils are made from premium birch wood, providing an elegant and eco-friendly dining experience. Smooth surface, no splinters, safe for users. Perfect for restaurants, hotels, and upscale events.",
+      "image": "/images/product-wooden.jpg",
+      "heroImage": "/images/hero/wooden.jpg",
+      "features": ["100% natural", "Fully biodegradable", "Food-safe"],
+      "benefits": [
+        { "icon": "Trees", "title": "100% Natural", "description": "Made from pure birch wood" },
+        { "icon": "Hand", "title": "Smooth Surface", "description": "Carefully polished, no splinters" },
+        { "icon": "UtensilsCrossed", "title": "Elegant Design", "description": "Sophisticated style elevates dining experience" },
+        { "icon": "Recycle", "title": "100% Compostable", "description": "Fully biodegradable in 6 months" }
+      ],
+      "stats": { "types": "5+", "lengths": "140mm - 200mm", "moq": "5,000" },
+      "specsId": "category-wooden"
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "nameVi": "Phụ Kiện",
+      "description": "Plant leaf cup carriers and eco-friendly accessories",
+      "image": "/images/product-accessories.jpg",
+      "features": [
+        "Handcrafted",
+        "100% natural",
+        "Convenient"
+      ],
+      "specsId": "category-accessories"
+    }
+  ],
+  "products": [
+    {
+      "slug": "3oz-paper-cup-90ml",
+      "name": "3oz Paper Cup (~90ml)",
+      "nameVi": "Cốc giấy 3oz ~ 90ml",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "90ml / 3oz",
+      "dimensions": {
+        "top": 60,
+        "bottom": 45,
+        "height": 60
+      },
+      "excerpt": "Compact 90ml paper cup, ideal for espresso shots, small tastings and samples",
+      "image": "/images/products/cup-3oz.jpg",
+      "featured": false,
+      "tags": [
+        "small cup",
+        "espresso",
+        "90ml",
+        "1PE"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/3ozPaperCup90ml"
+    },
+    {
+      "slug": "5oz-paper-cup-150ml",
+      "name": "5oz Paper Cup (~150ml)",
+      "nameVi": "Cốc giấy 5oz ~ 150ml",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "150ml / 5oz",
+      "dimensions": {
+        "top": 65,
+        "bottom": 48,
+        "height": 70
+      },
+      "excerpt": "5oz paper cup suitable for small coffee, office beverages",
+      "image": "/images/products/cup-5oz.jpg",
+      "featured": false,
+      "tags": [
+        "small cup",
+        "coffee",
+        "150ml",
+        "1PE"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/5ozPaperCup150ml"
+    },
+    {
+      "slug": "6oz-paper-cup-180ml-hanoi-hcm-design",
+      "name": "6oz Paper Cup (~180ml) Hanoi & HCM Design",
+      "nameVi": "Cốc giấy 6oz ~ 180ml in họa tiết Hà Nội, HCM",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "180ml / 6oz",
+      "dimensions": {
+        "top": 70,
+        "bottom": 50,
+        "height": 75
+      },
+      "excerpt": "6oz paper cup with iconic Hanoi and Saigon designs - unique and impressive",
+      "image": "/images/products/cup-6oz-hn-hcm.jpg",
+      "featured": true,
+      "tags": [
+        "medium cup",
+        "pattern",
+        "Hanoi",
+        "Saigon",
+        "180ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 5000,
+      "specsId": "cups/6ozPaperCup180mlDesign"
+    },
+    {
+      "slug": "7oz-paper-cup-210ml",
+      "name": "7oz Paper Cup (~210ml)",
+      "nameVi": "Cốc giấy 7oz ~ 210ml",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "210ml / 7oz",
+      "dimensions": {
+        "top": 72,
+        "bottom": 52,
+        "height": 80
+      },
+      "excerpt": "Standard office paper cup 210ml, suitable for all hot beverages",
+      "image": "/images/products/cup-7oz.jpg",
+      "featured": false,
+      "tags": [
+        "office cup",
+        "standard",
+        "210ml",
+        "1PE"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/7ozPaperCup210ml"
+    },
+    {
+      "slug": "9oz-paper-cup-270ml-plain",
+      "name": "9oz Paper Cup (~270ml) Plain",
+      "nameVi": "Cốc giấy 9oz ~ 270ml không in",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "270ml / 9oz",
+      "dimensions": {
+        "top": 75,
+        "bottom": 54,
+        "height": 88
+      },
+      "excerpt": "Plain white 9oz paper cup, suitable for traditional coffee shops",
+      "image": "/images/products/cup-9oz-plain.jpg",
+      "featured": false,
+      "tags": [
+        "plain cup",
+        "white",
+        "270ml",
+        "traditional"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/9ozPaperCup270mlPlain"
+    },
+    {
+      "slug": "9oz-paper-cup-270ml-wedding",
+      "name": "Wedding Theme Paper Cup 9oz (~270ml)",
+      "nameVi": "Ly giấy chủ đề Đám Cưới – Song Hỷ 9oz (~270ml)",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "270ml / 9oz",
+      "dimensions": {
+        "top": 75,
+        "bottom": 54,
+        "height": 88
+      },
+      "excerpt": "Red double happiness paper cup design, perfect for weddings and celebrations",
+      "image": "/images/products/cup-9oz-wedding.jpg",
+      "featured": true,
+      "tags": [
+        "wedding",
+        "double happiness",
+        "traditional",
+        "event"
+      ],
+      "price": "Contact us",
+      "minOrder": 3000,
+      "specsId": "cups/9ozPaperCup270mlWedding"
+    },
+    {
+      "slug": "12oz-paper-cup-400ml-pattern",
+      "name": "12oz Paper Cup (~400ml) Pattern Printed",
+      "nameVi": "Cốc giấy 12oz ~ 400ml in hoạ tiết",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "400ml / 12oz",
+      "dimensions": {
+        "top": 80,
+        "bottom": 56,
+        "height": 110
+      },
+      "excerpt": "12oz paper cup with various eye-catching patterns, ideal for bubble tea and coffee",
+      "image": "/images/products/cup-12oz-pattern.jpg",
+      "featured": true,
+      "tags": [
+        "large cup",
+        "pattern",
+        "bubble tea",
+        "400ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 3000,
+      "specsId": "cups/12ozPaperCup400mlPattern"
+    },
+    {
+      "slug": "12oz-paper-cup-400ml-plain",
+      "name": "12oz Paper Cup (~400ml) Plain",
+      "nameVi": "Cốc giấy 12oz ~ 400ml không in",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "400ml / 12oz",
+      "dimensions": {
+        "top": 80,
+        "bottom": 56,
+        "height": 110
+      },
+      "excerpt": "Plain white 12oz paper cup, perfect for custom logo printing",
+      "image": "/images/products/cup-12oz-plain.jpg",
+      "featured": false,
+      "tags": [
+        "plain cup",
+        "white",
+        "custom print",
+        "400ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/12ozPaperCup400mlPlain"
+    },
+    {
+      "slug": "16oz-paper-cup-500ml-pattern",
+      "name": "16oz Paper Cup (~500ml) Pattern Printed",
+      "nameVi": "Cốc giấy 16oz ~ 500ml có họa tiết",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "500ml / 16oz",
+      "dimensions": {
+        "top": 90,
+        "bottom": 60,
+        "height": 135
+      },
+      "excerpt": "Large 16oz paper cup with diverse patterns, suitable for bubble tea and smoothies",
+      "image": "/images/products/cup-16oz-pattern.jpg",
+      "featured": true,
+      "tags": [
+        "large cup",
+        "pattern",
+        "bubble tea",
+        "smoothie",
+        "500ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 3000,
+      "specsId": "cups/16ozPaperCup500mlPattern"
+    },
+    {
+      "slug": "16oz-paper-cup-500ml-plain",
+      "name": "16oz Paper Cup (~500ml) Plain",
+      "nameVi": "Cốc giấy 16oz ~ 500ml không in",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "500ml / 16oz",
+      "dimensions": {
+        "top": 90,
+        "bottom": 60,
+        "height": 135
+      },
+      "excerpt": "Plain white 16oz cup - perfect canvas for brand printing",
+      "image": "/images/products/cup-16oz-plain.jpg",
+      "featured": false,
+      "tags": [
+        "plain cup",
+        "white",
+        "custom print",
+        "500ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/16ozPaperCup500mlPlain"
+    },
+    {
+      "slug": "22oz-paper-cup-650ml-pattern",
+      "name": "22oz Paper Cup (~650ml) Pattern Printed",
+      "nameVi": "Cốc 22oz ~ 650ml có họa tiết",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "650ml / 22oz",
+      "dimensions": {
+        "top": 95,
+        "bottom": 65,
+        "height": 150
+      },
+      "excerpt": "Extra large 22oz paper cup for large bubble tea and family smoothies",
+      "image": "/images/products/cup-22oz-pattern.jpg",
+      "featured": true,
+      "tags": [
+        "extra large",
+        "pattern",
+        "family size",
+        "650ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 3000,
+      "specsId": "cups/22ozPaperCup650mlPattern"
+    },
+    {
+      "slug": "22oz-paper-cup-650ml-plain",
+      "name": "22oz Paper Cup (~650ml) Plain",
+      "nameVi": "Cốc giấy 22oz ~ 650ml không in",
+      "category": "cups",
+      "type": "1PE",
+      "capacity": "650ml / 22oz",
+      "dimensions": {
+        "top": 95,
+        "bottom": 65,
+        "height": 150
+      },
+      "excerpt": "Plain white 22oz cup - solution for customers requiring large capacity",
+      "image": "/images/products/cup-22oz-plain.jpg",
+      "featured": false,
+      "tags": [
+        "extra large",
+        "plain",
+        "custom print",
+        "650ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/22ozPaperCup650mlPlain"
+    },
+    {
+      "slug": "double-wall-kraft-cup-9oz-270ml",
+      "name": "Double Wall Kraft Paper Cup 9oz (~270ml)",
+      "nameVi": "Cốc 2 lớp giấy Kraft 9oz ~ 270ml",
+      "category": "cups",
+      "type": "2PE",
+      "capacity": "270ml / 9oz",
+      "dimensions": {
+        "top": 80,
+        "bottom": 55,
+        "height": 95
+      },
+      "excerpt": "Double wall Kraft cup with excellent insulation, no sleeve needed for hot drinks",
+      "image": "/images/products/cup-kraft-9oz.jpg",
+      "featured": true,
+      "tags": [
+        "double wall",
+        "kraft",
+        "insulated",
+        "premium",
+        "270ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/9ozKraftPaperCup270ml"
+    },
+    {
+      "slug": "double-wall-kraft-cup-12oz-400ml",
+      "name": "Double Wall Kraft Paper Cup 12oz (~400ml)",
+      "nameVi": "Cốc 2 lớp Kraft 12oz ~ 400ml",
+      "category": "cups",
+      "type": "2PE",
+      "capacity": "400ml / 12oz",
+      "dimensions": {
+        "top": 90,
+        "bottom": 60,
+        "height": 115
+      },
+      "excerpt": "Double wall Kraft 12oz - premium choice for specialty coffee shops",
+      "image": "/images/products/cup-kraft-12oz.jpg",
+      "featured": true,
+      "tags": [
+        "double wall",
+        "kraft",
+        "insulated",
+        "coffee",
+        "400ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/12ozKraftPaperCup400ml"
+    },
+    {
+      "slug": "double-wall-kraft-cup-16oz-500ml",
+      "name": "Double Wall Kraft Paper Cup 16oz (~500ml)",
+      "nameVi": "Cốc 2 lớp Kraft 16oz ~ 500ml",
+      "category": "cups",
+      "type": "2PE",
+      "capacity": "500ml / 16oz",
+      "dimensions": {
+        "top": 95,
+        "bottom": 65,
+        "height": 138
+      },
+      "excerpt": "Double wall Kraft 16oz - elegant and optimal insulation for hot beverages",
+      "image": "/images/products/cup-kraft-16oz.jpg",
+      "featured": true,
+      "tags": [
+        "double wall",
+        "kraft",
+        "elegant",
+        "500ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/16ozKraftPaperCup500ml"
+    },
+    {
+      "slug": "double-wall-kraft-cup-22oz-650ml",
+      "name": "Double Wall Kraft Paper Cup 22oz (~650ml)",
+      "nameVi": "Cốc 2 lớp Kraft 22oz ~ 650ml",
+      "category": "cups",
+      "type": "2PE",
+      "capacity": "650ml / 22oz",
+      "dimensions": {
+        "top": 100,
+        "bottom": 70,
+        "height": 155
+      },
+      "excerpt": "Double wall Kraft large 22oz - perfect for large bubble tea sizes",
+      "image": "/images/products/cup-kraft-22oz.jpg",
+      "featured": true,
+      "tags": [
+        "double wall",
+        "kraft",
+        "large",
+        "bubble tea",
+        "650ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/22ozKraftPaperCup650ml"
+    },
+    {
+      "slug": "double-wall-white-cup-9oz-270ml",
+      "name": "Double Wall White Paper Cup 9oz (~270ml)",
+      "nameVi": "Cốc giấy 2 lớp trắng 9oz ~ 270ml",
+      "category": "cups",
+      "type": "2PE",
+      "capacity": "270ml / 9oz",
+      "dimensions": {
+        "top": 80,
+        "bottom": 55,
+        "height": 95
+      },
+      "excerpt": "Double wall white cup - ideal canvas for brand logo printing",
+      "image": "/images/products/cup-white-9oz.jpg",
+      "featured": false,
+      "tags": [
+        "double wall",
+        "white",
+        "custom print",
+        "270ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/9ozWhitePaperCup270ml"
+    },
+    {
+      "slug": "double-wall-white-cup-12oz-400ml",
+      "name": "Double Wall White Paper Cup 12oz (~400ml)",
+      "nameVi": "Cốc giấy 2 lớp trắng 12oz ~ 400ml",
+      "category": "cups",
+      "type": "2PE",
+      "capacity": "400ml / 12oz",
+      "dimensions": {
+        "top": 90,
+        "bottom": 60,
+        "height": 115
+      },
+      "excerpt": "Double wall white 12oz - perfect blend of aesthetics and functionality",
+      "image": "/images/products/cup-white-12oz.jpg",
+      "featured": false,
+      "tags": [
+        "double wall",
+        "white",
+        "custom print",
+        "400ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/12ozWhitePaperCup400ml"
+    },
+    {
+      "slug": "double-wall-white-cup-16oz-500ml",
+      "name": "Double Wall White Paper Cup 16oz (~500ml)",
+      "nameVi": "Cốc giấy 2 lớp trắng 16oz ~ 500ml",
+      "category": "cups",
+      "type": "2PE",
+      "capacity": "500ml / 16oz",
+      "dimensions": {
+        "top": 95,
+        "bottom": 65,
+        "height": 138
+      },
+      "excerpt": "Double wall white 16oz - brand excellence in every detail",
+      "image": "/images/products/cup-white-16oz.jpg",
+      "featured": true,
+      "tags": [
+        "double wall",
+        "white",
+        "premium",
+        "custom print",
+        "500ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/16ozWhitePaperCup500ml"
+    },
+    {
+      "slug": "double-wall-white-cup-22oz-650ml",
+      "name": "Double Wall White Paper Cup 22oz (~650ml)",
+      "nameVi": "Cốc giấy 2 lớp trắng 22oz ~ 650ml",
+      "category": "cups",
+      "type": "2PE",
+      "capacity": "650ml / 22oz",
+      "dimensions": {
+        "top": 100,
+        "bottom": 70,
+        "height": 155
+      },
+      "excerpt": "Double wall white 22oz - premium choice for large sizes",
+      "image": "/images/products/cup-white-22oz.jpg",
+      "featured": false,
+      "tags": [
+        "double wall",
+        "white",
+        "large",
+        "650ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "cups/22ozWhitePaperCup650ml"
+    },
+    {
+      "slug": "custom-printed-paper-cups",
+      "name": "Custom Printed Paper Cups",
+      "nameVi": "Cốc giấy in logo theo yêu cầu",
+      "category": "cups",
+      "type": "Custom",
+      "capacity": "3oz - 22oz",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Custom logo and design printing service on all paper cup types. MOQ from 5,000 cups.",
+      "image": "/images/products/cup-custom.jpg",
+      "featured": true,
+      "tags": [
+        "custom print",
+        "branding",
+        "logo",
+        "OEM"
+      ],
+      "price": "Contact us",
+      "minOrder": 5000,
+      "specsId": "cups/CustomPrintedPaperCup"
+    },
+    {
+      "slug": "double-pe-paper-bowl-4oz-120ml",
+      "name": "Double PE Paper Bowl 4oz (~120ml)",
+      "nameVi": "Tô trắng 2PE 4oz ~ 120ml",
+      "category": "bowls",
+      "type": "2PE",
+      "capacity": "120ml / 4oz",
+      "dimensions": {
+        "top": 75,
+        "bottom": 60,
+        "height": 45
+      },
+      "excerpt": "Double PE coated 4oz paper bowl, perfect for ice cream, yogurt and small desserts",
+      "image": "/images/products/bowl-4oz.jpg",
+      "featured": false,
+      "tags": [
+        "small bowl",
+        "ice cream",
+        "yogurt",
+        "2PE",
+        "120ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/4ozPaperBowl120ml"
+    },
+    {
+      "slug": "white-paper-bowl-5oz-150ml",
+      "name": "White Paper Bowl 5oz (~150ml)",
+      "nameVi": "Tô giấy trắng 5oz ~ 150ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "150ml / 5oz",
+      "dimensions": {
+        "top": 80,
+        "bottom": 65,
+        "height": 50
+      },
+      "excerpt": "Small white 5oz paper bowl, convenient for ice cream and yogurt",
+      "image": "/images/products/bowl-5oz.jpg",
+      "featured": false,
+      "tags": [
+        "small bowl",
+        "ice cream",
+        "yogurt",
+        "150ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/5ozPaperBowl150ml"
+    },
+    {
+      "slug": "white-paper-bowl-7oz-200ml",
+      "name": "White Paper Bowl 7oz (~200ml)",
+      "nameVi": "Tô giấy trắng 7oz ~ 200ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "200ml / 7oz",
+      "dimensions": {
+        "top": 90,
+        "bottom": 70,
+        "height": 55
+      },
+      "excerpt": "Medium 7oz paper bowl, suitable for light meals, porridge for children",
+      "image": "/images/products/bowl-7oz.jpg",
+      "featured": false,
+      "tags": [
+        "medium bowl",
+        "porridge",
+        "light meal",
+        "200ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/7ozPaperBowl200ml"
+    },
+    {
+      "slug": "white-paper-bowl-9oz-270ml",
+      "name": "White Paper Bowl 9oz (~270ml)",
+      "nameVi": "Tô giấy trắng 9oz ~ 270ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "270ml / 9oz",
+      "dimensions": {
+        "top": 100,
+        "bottom": 75,
+        "height": 60
+      },
+      "excerpt": "Versatile 9oz paper bowl for desserts, porridge and small soups",
+      "image": "/images/products/bowl-9oz.jpg",
+      "featured": false,
+      "tags": [
+        "medium bowl",
+        "porridge",
+        "soup",
+        "270ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/9ozPaperBowl270ml"
+    },
+    {
+      "slug": "white-paper-bowl-10oz-300ml",
+      "name": "White Paper Bowl 10oz (~300ml)",
+      "nameVi": "Tô giấy trắng 10oz ~ 300ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "300ml / 10oz",
+      "dimensions": {
+        "top": 105,
+        "bottom": 80,
+        "height": 65
+      },
+      "excerpt": "Standard 10oz paper bowl, suitable for various food types",
+      "image": "/images/products/bowl-10oz.jpg",
+      "featured": false,
+      "tags": [
+        "standard bowl",
+        "versatile",
+        "300ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/10ozPaperBowl300ml"
+    },
+    {
+      "slug": "white-paper-bowl-12oz-360ml",
+      "name": "White Paper Bowl 12oz (~360ml)",
+      "nameVi": "Tô giấy trắng 12oz ~ 360ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "360ml / 12oz",
+      "dimensions": {
+        "top": 115,
+        "bottom": 90,
+        "height": 70
+      },
+      "excerpt": "12oz paper bowl standard for pho, bun noodles - most popular size",
+      "image": "/images/products/bowl-12oz.jpg",
+      "featured": true,
+      "tags": [
+        "pho bowl",
+        "noodle bowl",
+        "standard",
+        "360ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/12ozPaperBowl360ml"
+    },
+    {
+      "slug": "white-paper-bowl-16oz-480ml",
+      "name": "White Paper Bowl 16oz (~480ml)",
+      "nameVi": "Tô giấy trắng 16oz ~ 480ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "480ml / 16oz",
+      "dimensions": {
+        "top": 120,
+        "bottom": 95,
+        "height": 80
+      },
+      "excerpt": "Large 16oz paper bowl, suitable for special pho and individual hot pot",
+      "image": "/images/products/bowl-16oz.jpg",
+      "featured": true,
+      "tags": [
+        "large bowl",
+        "special pho",
+        "hot pot",
+        "480ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/16ozPaperBowl480ml"
+    },
+    {
+      "slug": "white-paper-bowl-22oz-550ml",
+      "name": "White Paper Bowl 22oz (~550ml)",
+      "nameVi": "Tô giấy trắng 22oz ~ 550ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "550ml / 22oz",
+      "dimensions": {
+        "top": 130,
+        "bottom": 100,
+        "height": 90
+      },
+      "excerpt": "Large 22oz paper bowl for large pho size L, generous noodle portions",
+      "image": "/images/products/bowl-22oz.jpg",
+      "featured": false,
+      "tags": [
+        "large bowl",
+        "pho size L",
+        "550ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/22ozPaperBowl550ml"
+    },
+    {
+      "slug": "white-paper-bowl-24oz-720ml",
+      "name": "White Paper Bowl 24oz (~720ml)",
+      "nameVi": "Tô trắng 24oz ~ 720ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "720ml / 24oz",
+      "dimensions": {
+        "top": 140,
+        "bottom": 110,
+        "height": 95
+      },
+      "excerpt": "Extra large 24oz paper bowl for salad and family-sized portions",
+      "image": "/images/products/bowl-24oz.jpg",
+      "featured": false,
+      "tags": [
+        "extra large",
+        "salad",
+        "family",
+        "720ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/24ozPaperBowl720ml"
+    },
+    {
+      "slug": "white-paper-bowl-26oz-750ml",
+      "name": "White Paper Bowl 26oz (~750ml)",
+      "nameVi": "Tô giấy trắng 26oz ~ 750ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "750ml / 26oz",
+      "dimensions": {
+        "top": 145,
+        "bottom": 115,
+        "height": 100
+      },
+      "excerpt": "26oz family-size paper bowl, suitable for sharing and large salads",
+      "image": "/images/products/bowl-26oz.jpg",
+      "featured": true,
+      "tags": [
+        "extra large",
+        "family size",
+        "salad",
+        "750ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/26ozPaperBowl750ml"
+    },
+    {
+      "slug": "white-paper-bowl-32oz-1000ml",
+      "name": "White Paper Bowl 32oz (~1000ml)",
+      "nameVi": "Tô trắng 32oz ~ 1000ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "1000ml / 32oz",
+      "dimensions": {
+        "top": 150,
+        "bottom": 120,
+        "height": 110
+      },
+      "excerpt": "32oz 1-liter paper bowl, ideal for individual hot pot and special pho",
+      "image": "/images/products/bowl-32oz.jpg",
+      "featured": true,
+      "tags": [
+        "1 liter",
+        "hot pot",
+        "special pho",
+        "1000ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/32ozPaperBowl1000ml"
+    },
+    {
+      "slug": "kraft-paper-bowl-22oz-550ml",
+      "name": "Kraft Paper Bowl 22oz (~550ml)",
+      "nameVi": "Tô giấy Kraft nâu 22oz ~ 550ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "550ml / 22oz",
+      "dimensions": {
+        "top": 130,
+        "bottom": 100,
+        "height": 90
+      },
+      "excerpt": "Brown Kraft 22oz paper bowl - eco-friendly style for any dish",
+      "image": "/images/products/bowl-kraft-22oz.jpg",
+      "featured": false,
+      "tags": [
+        "kraft bowl",
+        "eco-friendly",
+        "brown",
+        "550ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/22ozKraftPaperBowl550ml"
+    },
+    {
+      "slug": "kraft-paper-bowl-26oz-750ml",
+      "name": "Kraft Paper Bowl 26oz (~750ml)",
+      "nameVi": "Tô giấy Kraft nâu 26oz ~ 750ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "750ml / 26oz",
+      "dimensions": {
+        "top": 145,
+        "bottom": 115,
+        "height": 100
+      },
+      "excerpt": "26oz Kraft paper bowl - green choice for large portions",
+      "image": "/images/products/bowl-kraft-26oz.jpg",
+      "featured": true,
+      "tags": [
+        "kraft bowl",
+        "eco-friendly",
+        "brown",
+        "750ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/26ozKraftPaperBowl750ml"
+    },
+    {
+      "slug": "kraft-paper-bowl-32oz-1000ml",
+      "name": "Kraft Paper Bowl 32oz (~1000ml)",
+      "nameVi": "Tô giấy Kraft nâu 32oz ~ 1000ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "1000ml / 32oz",
+      "dimensions": {
+        "top": 150,
+        "bottom": 120,
+        "height": 110
+      },
+      "excerpt": "32oz 1-liter Kraft paper bowl - sustainable packaging for hot pot and salad",
+      "image": "/images/products/bowl-kraft-32oz.jpg",
+      "featured": true,
+      "tags": [
+        "kraft bowl",
+        "1 liter",
+        "eco-friendly",
+        "1000ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/32ozKraftPaperBowl1000ml"
+    },
+    {
+      "slug": "kraft-paper-bowl-36oz-1200ml",
+      "name": "Kraft Paper Bowl 36oz (~1200ml)",
+      "nameVi": "Tô giấy Kraft nâu 36oz ~ 1200ml",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "1200ml / 36oz",
+      "dimensions": {
+        "top": 160,
+        "bottom": 130,
+        "height": 120
+      },
+      "excerpt": "Largest 36oz 1.2L Kraft paper bowl, perfect for families and groups",
+      "image": "/images/products/bowl-kraft-36oz.jpg",
+      "featured": true,
+      "tags": [
+        "kraft bowl",
+        "extra large",
+        "family",
+        "1200ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/36ozKraftPaperBowl1200ml"
+    },
+    {
+      "slug": "printed-pattern-paper-bowl",
+      "name": "Printed Pattern Paper Bowl",
+      "nameVi": "Tô giấy in nhiều họa tiết",
+      "category": "bowls",
+      "type": "1PE",
+      "capacity": "5oz - 12oz",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Colorful patterned paper bowls - eye-catching and vibrant for ice cream and yogurt",
+      "image": "/images/products/bowl-pattern.jpg",
+      "featured": true,
+      "tags": [
+        "patterned bowl",
+        "colorful",
+        "ice cream",
+        "yogurt"
+      ],
+      "price": "Contact us",
+      "minOrder": 3000,
+      "specsId": "bowls/PrintedPatternPaperBowl"
+    },
+    {
+      "slug": "white-paper-bowl-33oz-pe-lid",
+      "name": "White Paper Bowl 33oz (~1000ml) with PE Lid",
+      "nameVi": "Tô giấy trắng 1000ml (33oz) nắp PE",
+      "category": "bowls",
+      "type": "1PE + Lid",
+      "capacity": "1000ml / 33oz",
+      "dimensions": {
+        "top": 150,
+        "bottom": 120,
+        "height": 110
+      },
+      "excerpt": "1000ml paper bowl with PE lid, leak-proof for takeout and delivery",
+      "image": "/images/products/bowl-white-lid.jpg",
+      "featured": true,
+      "tags": [
+        "bowl with lid",
+        "leak-proof",
+        "takeout",
+        "delivery",
+        "1000ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "bowls/33ozWhitePaperBowl1000mlPElid"
+    },
+    {
+      "slug": "white-paper-straw-6mm",
+      "name": "White Paper Straw Ø6mm",
+      "nameVi": "Ống hút giấy trắng phi 6",
+      "category": "straws",
+      "type": "Standard",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Standard white 6mm paper straw, suitable for regular beverages",
+      "image": "/images/products/straw-6mm-white.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "white",
+        "6mm",
+        "standard"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw6mmWhite"
+    },
+    {
+      "slug": "white-paper-straw-6mm-wrapped",
+      "name": "White Paper Straw Ø6mm Individually Wrapped",
+      "nameVi": "Ống hút giấy phi 6mm trắng bọc màng",
+      "category": "straws",
+      "type": "Wrapped",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Individually wrapped white paper straws, absolute hygiene guaranteed",
+      "image": "/images/products/straw-6mm-white-wrapped.jpg",
+      "featured": true,
+      "tags": [
+        "straw",
+        "white",
+        "wrapped",
+        "hygienic",
+        "6mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw6mmWhiteWrapped"
+    },
+    {
+      "slug": "kraft-paper-straw-6mm",
+      "name": "Kraft Brown Paper Straw Ø6mm",
+      "nameVi": "Ống hút giấy nâu - Kraft phi 6",
+      "category": "straws",
+      "type": "Standard",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Natural brown Kraft 6mm paper straws, eco-friendly style",
+      "image": "/images/products/straw-6mm-kraft.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "kraft",
+        "brown",
+        "natural",
+        "6mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw6mmKraft"
+    },
+    {
+      "slug": "kraft-paper-straw-6mm-wrapped",
+      "name": "Kraft Brown Paper Straw Ø6mm Wrapped",
+      "nameVi": "Ống hút giấy kraft nâu phi 6 bọc màng",
+      "category": "straws",
+      "type": "Wrapped",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Hygienic wrapped Kraft paper straws, safe for restaurants and hotels",
+      "image": "/images/products/straw-6mm-kraft-wrapped.jpg",
+      "featured": true,
+      "tags": [
+        "straw",
+        "kraft",
+        "wrapped",
+        "brown",
+        "6mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/KraftPaperStraw6mmWrapped"
+    },
+    {
+      "slug": "christmas-pattern-paper-straw-6mm",
+      "name": "Christmas Pattern Paper Straw Ø6mm",
+      "nameVi": "Ống hút giấy phi 6mm hoạ tiết giáng sinh",
+      "category": "straws",
+      "type": "Patterned",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Christmas themed paper straws, creating festive atmosphere",
+      "image": "/images/products/straw-6mm-christmas.jpg",
+      "featured": true,
+      "tags": [
+        "straw",
+        "christmas",
+        "pattern",
+        "festive",
+        "6mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw6mmChristmas"
+    },
+    {
+      "slug": "sparkle-pattern-paper-straw-6mm",
+      "name": "Sparkle Pattern Paper Straw Ø6mm",
+      "nameVi": "Ống hút giấy phi 6mm hoạ tiết lấp lánh",
+      "category": "straws",
+      "type": "Patterned",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Elegant sparkle pattern paper straws for weddings and special events",
+      "image": "/images/products/straw-6mm-sparkle.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "sparkle",
+        "elegant",
+        "wedding",
+        "6mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw6mmSparkle"
+    },
+    {
+      "slug": "multi-color-pattern-paper-straw-6mm",
+      "name": "Multi-Color Pattern Paper Straw Ø6mm",
+      "nameVi": "Ống hút giấy phi 6mm hoạ tiết nhiều màu",
+      "category": "straws",
+      "type": "Patterned",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Colorful paper straws, cheerful for children and birthday parties",
+      "image": "/images/products/straw-6mm-colorful.jpg",
+      "featured": true,
+      "tags": [
+        "straw",
+        "colorful",
+        "cheerful",
+        "kids",
+        "6mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw6mmColorful"
+    },
+    {
+      "slug": "star-pattern-paper-straw-6mm",
+      "name": "Star Pattern Paper Straw Ø6mm",
+      "nameVi": "Ống hút giấy phi 6mm hoạ tiết sao nhỏ",
+      "category": "straws",
+      "type": "Patterned",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Cute small star pattern paper straws, suitable for any occasion",
+      "image": "/images/products/straw-6mm-star.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "star",
+        "cute",
+        "6mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw6mmStar"
+    },
+    {
+      "slug": "bamboo-pattern-paper-straw-6mm",
+      "name": "Bamboo Pattern Paper Straw Ø6mm",
+      "nameVi": "Ống hút giấy phi 6mm hoạ tiết tre",
+      "category": "straws",
+      "type": "Patterned",
+      "diameter": "6mm",
+      "length": "197mm",
+      "excerpt": "Elegant bamboo pattern paper straws with Asian aesthetic",
+      "image": "/images/products/straw-6mm-bamboo.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "bamboo",
+        "asian",
+        "elegant",
+        "6mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw6mmBamboo"
+    },
+    {
+      "slug": "white-paper-straw-8mm",
+      "name": "White Paper Straw Ø8mm",
+      "nameVi": "Ống hút giấy trắng phi 8",
+      "category": "straws",
+      "type": "Standard",
+      "diameter": "8mm",
+      "length": "197mm",
+      "excerpt": "Large 8mm paper straws, ideal for bubble tea pearls and smoothies",
+      "image": "/images/products/straw-8mm-white.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "white",
+        "8mm",
+        "bubble tea"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw8mmWhite"
+    },
+    {
+      "slug": "white-paper-straw-8mm-wrapped",
+      "name": "White Paper Straw Ø8mm Wrapped",
+      "nameVi": "Ống hút giấy phi 8mm trắng bọc màng",
+      "category": "straws",
+      "type": "Wrapped",
+      "diameter": "8mm",
+      "length": "197mm",
+      "excerpt": "Wrapped 8mm paper straws, hygienic for bubble tea service",
+      "image": "/images/products/straw-8mm-white-wrapped.jpg",
+      "featured": true,
+      "tags": [
+        "straw",
+        "white",
+        "wrapped",
+        "8mm",
+        "bubble tea"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw8mmWhiteWrapped"
+    },
+    {
+      "slug": "kraft-paper-straw-8mm",
+      "name": "Kraft Paper Straw Ø8mm",
+      "nameVi": "Ống hút giấy nâu - Kraft phi 8",
+      "category": "straws",
+      "type": "Standard",
+      "diameter": "8mm",
+      "length": "197mm",
+      "excerpt": "Kraft 8mm paper straws - green solution for bubble tea and smoothies",
+      "image": "/images/products/straw-8mm-kraft.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "kraft",
+        "brown",
+        "8mm",
+        "eco-friendly"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw8mmKraft"
+    },
+    {
+      "slug": "kraft-paper-straw-8mm-wrapped",
+      "name": "Kraft Brown Paper Straw Ø8mm Wrapped",
+      "nameVi": "Ống hút giấy kraft nâu phi 8 bọc màng",
+      "category": "straws",
+      "type": "Wrapped",
+      "diameter": "8mm",
+      "length": "197mm",
+      "excerpt": "Wrapped Kraft 8mm straws - eco-friendly standard for coffee chains",
+      "image": "/images/products/straw-8mm-kraft-wrapped.jpg",
+      "featured": true,
+      "tags": [
+        "straw",
+        "kraft",
+        "wrapped",
+        "8mm",
+        "chain"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/KraftPaperStraw8mmWrapped"
+    },
+    {
+      "slug": "white-paper-straw-12mm",
+      "name": "White Paper Straw Ø12mm",
+      "nameVi": "Ống hút giấy trắng phi 12",
+      "category": "straws",
+      "type": "Standard",
+      "diameter": "12mm",
+      "length": "210mm",
+      "excerpt": "Extra large 12mm paper straws for thick smoothies and milkshakes",
+      "image": "/images/products/straw-12mm-white.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "white",
+        "12mm",
+        "smoothie",
+        "thick"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw12mmWhite"
+    },
+    {
+      "slug": "white-paper-straw-12mm-wrapped",
+      "name": "White Paper Straw Ø12mm Wrapped",
+      "nameVi": "Ống hút giấy phi 12mm trắng bọc màng",
+      "category": "straws",
+      "type": "Wrapped",
+      "diameter": "12mm",
+      "length": "210mm",
+      "excerpt": "Wrapped 12mm paper straws - hygienic for thick beverages",
+      "image": "/images/products/straw-12mm-white-wrapped.jpg",
+      "featured": true,
+      "tags": [
+        "straw",
+        "white",
+        "wrapped",
+        "12mm",
+        "hygienic"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw12mmWhiteWrapped"
+    },
+    {
+      "slug": "kraft-paper-straw-12mm",
+      "name": "Kraft Paper Straw Ø12mm",
+      "nameVi": "Ống hút giấy nâu - Kraft phi 12",
+      "category": "straws",
+      "type": "Standard",
+      "diameter": "12mm",
+      "length": "210mm",
+      "excerpt": "Kraft 12mm paper straws - sustainable choice for thick drinks",
+      "image": "/images/products/straw-12mm-kraft.jpg",
+      "featured": false,
+      "tags": [
+        "straw",
+        "kraft",
+        "brown",
+        "12mm",
+        "sustainable"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/PaperStraw12mmKraft"
+    },
+    {
+      "slug": "kraft-paper-straw-12mm-wrapped",
+      "name": "Kraft Brown Paper Straw Ø12mm Wrapped",
+      "nameVi": "Ống hút giấy kraft nâu phi 12 bọc màng",
+      "category": "straws",
+      "type": "Wrapped",
+      "diameter": "12mm",
+      "length": "210mm",
+      "excerpt": "Wrapped Kraft 12mm straws - premium for juice bars and healthy drinks",
+      "image": "/images/products/straw-12mm-kraft-wrapped.jpg",
+      "featured": true,
+      "tags": [
+        "straw",
+        "kraft",
+        "wrapped",
+        "12mm",
+        "premium"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "straws/KraftPaperStraw12mmWrapped"
+    },
+    {
+      "slug": "white-paper-plate-d130",
+      "name": "White Paper Plate D130mm",
+      "nameVi": "Đĩa giấy trắng D130mm",
+      "category": "containers",
+      "type": "Plate",
+      "dimensions": {
+        "diameter": 130
+      },
+      "excerpt": "Round paper plate 130mm diameter, ideal for small desserts and fruits",
+      "image": "/images/products/plate-white-130.jpg",
+      "featured": false,
+      "tags": [
+        "plate",
+        "small",
+        "dessert",
+        "fruit",
+        "130mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/WhitePaperPlateD130"
+    },
+    {
+      "slug": "white-paper-plate-d150",
+      "name": "White Paper Plate D150mm",
+      "nameVi": "Đĩa giấy tròn D150mm",
+      "category": "containers",
+      "type": "Plate",
+      "dimensions": {
+        "diameter": 150
+      },
+      "excerpt": "150mm small-medium paper plate, suitable for light meals and buffet",
+      "image": "/images/products/plate-white-150.jpg",
+      "featured": false,
+      "tags": [
+        "plate",
+        "small-medium",
+        "buffet",
+        "150mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/WhitePaperPlateD150"
+    },
+    {
+      "slug": "white-paper-plate-d180",
+      "name": "White Paper Plate D180mm",
+      "nameVi": "Đĩa giấy tròn D180mm",
+      "category": "containers",
+      "type": "Plate",
+      "dimensions": {
+        "diameter": 180
+      },
+      "excerpt": "Standard 180mm paper plate, versatile for various dishes",
+      "image": "/images/products/plate-white-180.jpg",
+      "featured": true,
+      "tags": [
+        "plate",
+        "standard",
+        "versatile",
+        "180mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/WhitePaperPlateD180"
+    },
+    {
+      "slug": "white-paper-plate-d200",
+      "name": "White Paper Plate D200mm",
+      "nameVi": "Đĩa giấy tròn D200mm",
+      "category": "containers",
+      "type": "Plate",
+      "dimensions": {
+        "diameter": 200
+      },
+      "excerpt": "Large 200mm paper plate for main courses, BBQ, outdoor parties",
+      "image": "/images/products/plate-white-200.jpg",
+      "featured": false,
+      "tags": [
+        "plate",
+        "large",
+        "BBQ",
+        "party",
+        "200mm"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/WhitePaperPlateD200"
+    },
+    {
+      "slug": "kraft-paper-tray-220x150x48",
+      "name": "Kraft Paper Tray 220x150x48mm",
+      "nameVi": "Khay giấy kraft 220x150x48mm",
+      "category": "containers",
+      "type": "Tray",
+      "dimensions": {
+        "length": 220,
+        "width": 150,
+        "height": 48
+      },
+      "excerpt": "Small rectangular Kraft paper tray, perfect for fried food and snacks",
+      "image": "/images/products/tray-kraft-220.jpg",
+      "featured": false,
+      "tags": [
+        "tray",
+        "kraft",
+        "rectangular",
+        "fried food",
+        "snack"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperTray220x150x48"
+    },
+    {
+      "slug": "kraft-paper-tray-255x178x50",
+      "name": "Kraft Paper Tray 255x178x50mm",
+      "nameVi": "Khay giấy kraft 255x178x50mm",
+      "category": "containers",
+      "type": "Tray",
+      "dimensions": {
+        "length": 255,
+        "width": 178,
+        "height": 50
+      },
+      "excerpt": "Medium Kraft paper tray, ideal for fast food and street food",
+      "image": "/images/products/tray-kraft-255.jpg",
+      "featured": true,
+      "tags": [
+        "tray",
+        "kraft",
+        "fast food",
+        "street food"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperTray255x178x50"
+    },
+    {
+      "slug": "kraft-paper-tray-350ml",
+      "name": "Kraft Paper Tray 350ml",
+      "nameVi": "Khay giấy kraft 350ml",
+      "category": "containers",
+      "type": "Tray",
+      "capacity": "350ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper tray 350ml, suitable for small salads and light meals",
+      "image": "/images/products/tray-kraft-350.jpg",
+      "featured": false,
+      "tags": [
+        "tray",
+        "kraft",
+        "salad",
+        "small",
+        "350ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperTray350ml"
+    },
+    {
+      "slug": "kraft-paper-tray-600ml",
+      "name": "Kraft Paper Tray 600ml",
+      "nameVi": "Khay giấy kraft 600ml",
+      "category": "containers",
+      "type": "Tray",
+      "capacity": "600ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Large Kraft paper tray 600ml, for generous main course portions",
+      "image": "/images/products/tray-kraft-600.jpg",
+      "featured": false,
+      "tags": [
+        "tray",
+        "kraft",
+        "large",
+        "main course",
+        "600ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperTray600ml"
+    },
+    {
+      "slug": "kraft-paper-box-folded-lid-750ml",
+      "name": "Kraft Paper Box with Folded Lid 750ml",
+      "nameVi": "Hộp giấy Kraft nắp chéo 750ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "750ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box with folded lid 750ml, sturdy for rice boxes and hot food",
+      "image": "/images/products/box-kraft-750-fold.jpg",
+      "featured": false,
+      "tags": [
+        "box",
+        "kraft",
+        "folded lid",
+        "rice box",
+        "750ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxFoldedLid750ml"
+    },
+    {
+      "slug": "kraft-paper-box-folded-lid-1000ml",
+      "name": "Kraft Paper Box with Folded Lid 1000ml",
+      "nameVi": "Hộp giấy Kraft nắp chéo 1000ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "1000ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box 1 liter with folded lid, suitable for large portions and combos",
+      "image": "/images/products/box-kraft-1000-fold.jpg",
+      "featured": true,
+      "tags": [
+        "box",
+        "kraft",
+        "folded lid",
+        "1 liter",
+        "combo"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxFoldedLid1000ml"
+    },
+    {
+      "slug": "kraft-paper-box-folded-lid-1200ml",
+      "name": "Kraft Paper Box with Folded Lid 1200ml",
+      "nameVi": "Hộp giấy Kraft nắp chéo 1200ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "1200ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box 1200ml with folded lid - for family portions and large meals",
+      "image": "/images/products/box-kraft-1200-fold.jpg",
+      "featured": false,
+      "tags": [
+        "box",
+        "kraft",
+        "folded lid",
+        "1200ml",
+        "family"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxFoldedLid1200ml"
+    },
+    {
+      "slug": "kraft-paper-box-folded-lid-1500ml",
+      "name": "Kraft Paper Box with Folded Lid 1500ml",
+      "nameVi": "Hộp giấy Kraft nắp chéo 1500ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "1500ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box 1.5 liter with folded lid, suitable for families and groups",
+      "image": "/images/products/box-kraft-1500-fold.jpg",
+      "featured": false,
+      "tags": [
+        "box",
+        "kraft",
+        "folded lid",
+        "1.5 liter",
+        "large"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxFoldedLid1500ml"
+    },
+    {
+      "slug": "kraft-paper-box-folded-lid-1800ml",
+      "name": "Kraft Paper Box with Folded Lid 1800ml",
+      "nameVi": "Hộp giấy Kraft nắp chéo 1800ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "1800ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Extra large Kraft paper box 1.8 liter, for party food and large gatherings",
+      "image": "/images/products/box-kraft-1800-fold.jpg",
+      "featured": true,
+      "tags": [
+        "box",
+        "kraft",
+        "folded lid",
+        "1.8 liter",
+        "party"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxFoldedLid1800ml"
+    },
+    {
+      "slug": "kraft-paper-box-window-lid-750ml",
+      "name": "Kraft Paper Box with Window Lid 750ml",
+      "nameVi": "Hộp giấy Kraft nắp cửa sổ 750ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "750ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box with window lid 750ml - showcase your delicious food inside",
+      "image": "/images/products/box-kraft-750-window.jpg",
+      "featured": true,
+      "tags": [
+        "box",
+        "kraft",
+        "window",
+        "display",
+        "750ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxWindowLid750ml"
+    },
+    {
+      "slug": "kraft-paper-box-window-lid-1000ml",
+      "name": "Kraft Paper Box with Window Lid 1000ml",
+      "nameVi": "Hộp giấy Kraft nắp cửa sổ 1000ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "1000ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box with window lid 1 liter - attractive display for effective sales",
+      "image": "/images/products/box-kraft-1000-window.jpg",
+      "featured": true,
+      "tags": [
+        "box",
+        "kraft",
+        "window",
+        "display",
+        "1 liter"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxWindowLid1000ml"
+    },
+    {
+      "slug": "kraft-paper-box-window-lid-1200ml",
+      "name": "Kraft Paper Box with Window Lid 1200ml",
+      "nameVi": "Hộp giấy Kraft nắp cửa sổ 1200ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "1200ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box with window lid 1200ml - showcase delicious food, attract customers",
+      "image": "/images/products/box-kraft-1200-window.jpg",
+      "featured": false,
+      "tags": [
+        "box",
+        "kraft",
+        "window",
+        "1200ml",
+        "attractive"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxWindowLid1200ml"
+    },
+    {
+      "slug": "kraft-paper-box-square-lid-1000ml",
+      "name": "Kraft Paper Box with Square Lid 1000ml",
+      "nameVi": "Hộp giấy Kraft nắp vuông 1000ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "1000ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box with square lid 1 liter - modern and professional design",
+      "image": "/images/products/box-kraft-1000-square.jpg",
+      "featured": false,
+      "tags": [
+        "box",
+        "kraft",
+        "square lid",
+        "modern",
+        "1 liter"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxSquareLid1000ml"
+    },
+    {
+      "slug": "kraft-paper-box-square-lid-1200ml",
+      "name": "Kraft Paper Box with Square Lid 1200ml",
+      "nameVi": "Hộp giấy Kraft nắp vuông 1200ml",
+      "category": "containers",
+      "type": "Box",
+      "capacity": "1200ml",
+      "dimensions": {
+        "custom": true
+      },
+      "excerpt": "Kraft paper box with square lid 1200ml - elegant, holds multiple dishes",
+      "image": "/images/products/box-kraft-1200-square.jpg",
+      "featured": false,
+      "tags": [
+        "box",
+        "kraft",
+        "square lid",
+        "elegant",
+        "1200ml"
+      ],
+      "price": "Contact us",
+      "minOrder": 1000,
+      "specsId": "containers/KraftPaperBoxSquareLid1200ml"
+    },
+    {
+      "slug": "wooden-disposable-knife",
+      "name": "Wooden Disposable Knife",
+      "nameVi": "Dao gỗ dùng 1 lần",
+      "category": "wooden",
+      "type": "Cutlery",
+      "length": "160mm",
+      "material": "Natural Birch Wood",
+      "excerpt": "Natural wooden disposable knife, sharp edge, cuts all types of food well",
+      "image": "/images/products/wooden-knife.jpg",
+      "featured": false,
+      "tags": [
+        "knife",
+        "wood",
+        "natural",
+        "sharp"
+      ],
+      "price": "Contact us",
+      "minOrder": 5000,
+      "specsId": "wooden/WoodenDisposableKnife"
+    },
+    {
+      "slug": "wooden-fork-16cm",
+      "name": "Wooden Fork 16cm",
+      "nameVi": "Nĩa gỗ 16cm",
+      "category": "wooden",
+      "type": "Cutlery",
+      "length": "160mm",
+      "material": "Natural Birch Wood",
+      "excerpt": "Sturdy 16cm wooden fork with sharp tines, easily pierces food",
+      "image": "/images/products/wooden-fork.jpg",
+      "featured": true,
+      "tags": [
+        "fork",
+        "wood",
+        "16cm",
+        "sturdy"
+      ],
+      "price": "Contact us",
+      "minOrder": 5000,
+      "specsId": "wooden/WoodenFork16cm"
+    },
+    {
+      "slug": "wooden-spoon-16cm",
+      "name": "Wooden Spoon 16cm",
+      "nameVi": "Thìa gỗ 16cm",
+      "category": "wooden",
+      "type": "Cutlery",
+      "length": "160mm",
+      "material": "Natural Birch Wood",
+      "excerpt": "16cm wooden spoon with deep bowl, easy to scoop soup and porridge, comfortable grip",
+      "image": "/images/products/wooden-spoon.jpg",
+      "featured": true,
+      "tags": [
+        "spoon",
+        "wood",
+        "16cm",
+        "deep bowl"
+      ],
+      "price": "Contact us",
+      "minOrder": 5000,
+      "specsId": "wooden/WoodenSpoon16cm"
+    },
+    {
+      "slug": "round-wooden-spoon-10-5cm",
+      "name": "Round Wooden Spoon 10.5cm",
+      "nameVi": "Thìa gỗ tròn 10.5cm",
+      "category": "wooden",
+      "type": "Cutlery",
+      "length": "105mm",
+      "material": "Natural Birch Wood",
+      "excerpt": "Small round 10.5cm wooden spoon, perfect for ice cream, yogurt and desserts",
+      "image": "/images/products/wooden-spoon-round.jpg",
+      "featured": false,
+      "tags": [
+        "spoon",
+        "wood",
+        "round",
+        "small",
+        "ice cream"
+      ],
+      "price": "Contact us",
+      "minOrder": 5000,
+      "specsId": "wooden/RoundWoodenSpoon10_5cm"
+    },
+    {
+      "slug": "wooden-ice-cream-stick-7-5cm",
+      "name": "Wooden Ice Cream Stick 7.5cm",
+      "nameVi": "Que kem gỗ 7.5cm",
+      "category": "wooden",
+      "type": "Stick",
+      "length": "75mm",
+      "material": "Natural Wood",
+      "excerpt": "Smooth 7.5cm wooden ice cream sticks, splinter-free, safe for children",
+      "image": "/images/products/wooden-stick.jpg",
+      "featured": false,
+      "tags": [
+        "stick",
+        "wood",
+        "7.5cm",
+        "smooth"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "wooden/WoodenIceCreamStick7_5cm"
+    },
+    {
+      "slug": "wooden-coffee-stirrer",
+      "name": "Wooden Coffee Stirrer",
+      "nameVi": "Que khuấy cà phê",
+      "category": "wooden",
+      "type": "Stirrer",
+      "length": "140mm",
+      "material": "Natural Wood",
+      "excerpt": "Natural wooden coffee stirrers, perfect length, stirs evenly and easily",
+      "image": "/images/products/wooden-stirrer.jpg",
+      "featured": false,
+      "tags": [
+        "stirrer",
+        "coffee",
+        "wood",
+        "convenient"
+      ],
+      "price": "Contact us",
+      "minOrder": 10000,
+      "specsId": "wooden/WoodenCoffeeStirrer"
+    },
+    {
+      "slug": "small-plant-leaf-cup-carrier",
+      "name": "Small Plant Leaf Cup Carrier",
+      "nameVi": "Quai xách ly lá cây nhỏ",
+      "category": "accessories",
+      "type": "Carrier",
+      "capacity": "2 small cups (3-9oz)",
+      "material": "Natural Plant Leaves",
+      "excerpt": "Small plant leaf cup carrier, holds 2 cups 3-9oz, traditional handcrafted",
+      "image": "/images/products/carry-handle-small.jpg",
+      "featured": false,
+      "tags": [
+        "carrier",
+        "plant leaf",
+        "small",
+        "handcrafted"
+      ],
+      "price": "Contact us",
+      "minOrder": 500,
+      "specsId": "accessories/PlantLeafCarryHandleSmall"
+    },
+    {
+      "slug": "plant-leaf-cup-carrier",
+      "name": "Plant Leaf Cup Carrier",
+      "nameVi": "Quai xách ly lá cây",
+      "category": "accessories",
+      "type": "Carrier",
+      "capacity": "2 medium cups (12-16oz)",
+      "material": "Natural Plant Leaves",
+      "excerpt": "Standard plant leaf cup carrier, holds 2 cups 12-16oz, 100% natural",
+      "image": "/images/products/carry-handle.jpg",
+      "featured": true,
+      "tags": [
+        "carrier",
+        "plant leaf",
+        "natural",
+        "2 cups"
+      ],
+      "price": "Contact us",
+      "minOrder": 500,
+      "specsId": "accessories/PlantLeafCarryHandle"
+    },
+    {
+      "slug": "large-plant-leaf-cup-carrier",
+      "name": "Large Plant Leaf Cup Carrier",
+      "nameVi": "Quai xách ly lá cây lớn",
+      "category": "accessories",
+      "type": "Carrier",
+      "capacity": "2-4 large cups (16-22oz)",
+      "material": "Natural Plant Leaves",
+      "excerpt": "Large plant leaf cup carrier, holds 2-4 cups 16-22oz, sturdy and durable",
+      "image": "/images/products/carry-handle-large.jpg",
+      "featured": true,
+      "tags": [
+        "carrier",
+        "plant leaf",
+        "large",
+        "2-4 cups"
+      ],
+      "price": "Contact us",
+      "minOrder": 500,
+      "specsId": "accessories/PlantLeafCarryHandleLarge"
+    }
+  ]
+}
