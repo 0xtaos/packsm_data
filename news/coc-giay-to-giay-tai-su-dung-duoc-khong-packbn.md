@@ -1,7 +1,9 @@
 ---
 title: "Cốc giấy tô giấy dùng một lần tái sử dụng được không?"
 slug: "coc-giay-to-giay-tai-su-dung-duoc-khong-packbn"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/coc-giay-to-giay-tai-su-dung-duoc-khong-packbn-featured.jpg"
 ---
 Trước tiên khi đi tìm hiểu về **cốc giấy tô giấy tái sử dụng được không**? Hiện nay, Việt Nam đang thải ra môi trường khoảng 60.000 tấn rác sinh hoạt một ngày, trong đó khoảng 60% là rác thải sinh hoạt đô thị. Theo Bộ Tài nguyên và Môi trường, trên 70% lượng rác này được xử lý bằng phương pháp chôn lấp, trong đó chỉ có khoảng dưới 20% là được chôn lấp hợp vệ sinh. Lượng rác chôn lấp không hợp vệ sinh đang hàng ngày gây ô nhiễm cho môi trường đất, môi trường nước và không khí. Vấn đề này trở nên đặc biệt nghiêm trọng ở các thành phố lớn. Ngoài ra, trong số 30% được xử lý bằng phương pháp không chôn lấp thì cũng có đến 2/3 là được đốt tiêu hủy bằng các lò đốt rác thủ công, gây khói bụi ô nhiễm không khí.

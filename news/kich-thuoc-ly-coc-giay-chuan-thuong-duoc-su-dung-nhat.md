@@ -1,7 +1,9 @@
 ---
 title: "Kích thước Ly/cốc giấy chuẩn thường được sử dụng nhất"
 slug: "kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-featured.jpg"
 ---
 Sử dụng** Ly/cốc giấy dùng một lần** đang dần thành thói quen cho mọi người hiện nay thay vì cốc nhựa. Người ta sử dụng cốc giấy cho nhiều mục đích khác nhau. Bởi thế mà kích thước tiêu chuẩn hiện có của **ly/cốc giấy** cũng thật đa dạng sao cho phù hợp với mọi người. Trong bài viết này,Packbn  sẽ giúp bạn tìm hiểu thêm về các kích cỡ khác nhau của ly giấy. Từ đó chọn được kích thước ly giấy phù hợp cho nhu cầu của mình nhé!

@@ -1,7 +1,9 @@
 ---
 title: "Tìm Hiểu Về Sự Đa Dạng và Ứng Dụng Của Các Loại Cốc Giấy, Tô Giấy và Ống Hút Giấy Trong Cuộc Sống Hằng Ngày"
 slug: "su-da-dang-va-ung-dung-cua-cac-loai-coc-giay-to-giay"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/su-da-dang-va-ung-dung-cua-cac-loai-coc-giay-to-giay-featured.jpg"
 ---
 Trong bối cảnh ngày càng tăng của nhận thức về vấn đề ô nhiễm môi trường và sự cần thiết của việc thúc đẩy phát triển bền vững, việc tìm kiếm các giải pháp thân thiện với môi trường là một ưu tiên hàng đầu. Trong ngành công nghiệp tiêu dùng, sự đa dạng và ứng dụng của các loại  từ giấy, như cốc giấy, tô giấy và ống hút giấy, đang được thúc đẩy mạnh mẽ.

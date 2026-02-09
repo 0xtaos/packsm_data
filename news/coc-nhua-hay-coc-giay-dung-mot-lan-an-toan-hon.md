@@ -1,7 +1,9 @@
 ---
 title: "Cốc nhựa hay Cốc giấy dùng một lần an toàn hơn"
 slug: "coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-featured.jpg"
 ---
 Trong cuộc sống hiện đại, cốc giấy dùng một lần, ly giấy, tô giấy là sản phẩm vô cùng tiện lợi. Chúng không cần vệ sinh, dọn rửa, giúp tiết kiệm thời gian, chi phí nhân công cho đơn vị kinh doanh, nhà hàng, quán cà phê, trà sữa,… Tuy nhiên, hiện nay việc kiểm soát chất lượng với sản phẩm này vẫn đang bị bỏ ngỏ?

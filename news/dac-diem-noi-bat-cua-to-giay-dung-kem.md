@@ -1,7 +1,9 @@
 ---
 title: "ĐẶC ĐIỂM NỔI BẬT CỦA TÔ GIẤY ĐỰNG KEM"
 slug: "dac-diem-noi-bat-cua-to-giay-dung-kem"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/dac-diem-noi-bat-cua-to-giay-dung-kem-featured.jpg"
 ---
 ***[TÔ GIẤY đựng kem](https://packbn.com/)*** là một sản phẩm đa năng và tiện lợi cho những ai yêu thích kem lạnh hay kem nóng. Với thiết kế độc đáo, sản phẩm này được làm từ chất liệu giấy 2PE chất lượng cao, đảm bảo an toàn cho sức khỏe của bạn và môi trường.

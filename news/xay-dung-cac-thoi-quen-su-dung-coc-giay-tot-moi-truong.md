@@ -1,7 +1,9 @@
 ---
 title: "Xây Dựng Các Thói Quen Sử Dụng Cốc Giấy Tốt Môi Trường"
 slug: "xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-featured.jpg"
 ---
 Ngày nay “sống xanh là một trào lưu được hưởng ứng trên toàn cầu, nhằm bảo vệ môi trường và ứng phó với biến đổi khí hậu. Để làm được điều này, người sử dụng nên xây dựng[** các thói quen sử dụng cốc giấy tốt môi trường**](https://packbn.com/wp), chẳng hạn như các loại bao bì, vật dụng sinh học có khả năng phân hủy cao, dễ tái chế. Nhằm giúp bạn duy trì lối sống xanh, tạo thói quen lành mạnh. Cùng theo dõi bài viết [Packbn](https://packbn.com/wp) sau đây nhé.

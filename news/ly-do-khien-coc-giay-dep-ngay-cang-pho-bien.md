@@ -1,7 +1,9 @@
 ---
 title: "Lý do khiến cốc giấy đẹp ngày càng phổ biến"
 slug: "ly-do-khien-coc-giay-dep-ngay-cang-pho-bien"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/ly-do-khien-coc-giay-dep-ngay-cang-pho-bien-featured.jpg"
 ---
 Trong thời đại hiện nay, khi môi trường đang đối mặt với nhiều thách thức nghiêm trọng, việc tìm kiếm các giải pháp thân thiện với môi trường trở nên ngày càng cấp bách hơn bao giờ hết. Trong tình hình đó, [cốc giấy đẹp](https://packbn.com/) đã trở thành một lựa chọn phổ biến và được ưa chuộng hơn bao giờ hết. Dưới đây là một số lý do chính khiến ly giấy ngày càng trở nên phổ biến

@@ -1,7 +1,9 @@
 ---
 title: "Dao Nĩa Gỗ – Lựa Chọn Hoàn Hảo cho Dã Ngoại và Văn Phòng"
 slug: "dao-nia-go-lua-chon-hoan-hao-cho-da-ngoai-va-van-phong"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/dao-nia-go-lua-chon-hoan-hao-cho-da-ngoai-va-van-phong-featured.jpg"
 ---
 Trên thị trường ngày nay, khi môi trường và sức khỏe trở thành ưu tiên hàng đầu, việc chọn lựa các dụng cụ hàng ngày mà không gây hại cho môi trường trở nên ngày càng quan trọng hơn bao giờ hết. Trong số đó, dao nĩa gỗ [**PACKBN**](https://packbn.com/) nổi lên như một lựa chọn đa dụng, thân thiện với môi trường và phong cách.

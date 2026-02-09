@@ -1,7 +1,9 @@
 ---
 title: "Ống hút giấy: Giải pháp thân thiện với môi trường"
 slug: "ong-hut-giay-giai-phap-than-thien-voi-moi-truong"
-date: ""
+excerpt: ""
+date: "2024-01-15"
+author: "PackSM Team"
 featuredImage: "/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-featured.jpg"
 ---
 ## Lịch sử và xuất xứ của ống hút giấy
