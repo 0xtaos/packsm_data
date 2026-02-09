@@ -33,3 +33,5 @@ Không chỉ là một biện pháp bảo vệ môi trường, ống hút giấy
 ## **Kết Luận**
 
 [Ống hút giấy Packbn](https://packbn.com/) không chỉ là một sản phẩm, mà là biểu tượng của sự chuyển đổi văn hóa và ý thức môi trường. Sử dụng ống hút giấy là một cách đơn giản nhưng hiệu quả để mỗi người chúng ta đóng góp vào việc bảo vệ môi trường và tạo ra một tương lai bền vững cho thế hệ tiếp theo.
+
+---

@@ -30,20 +30,4 @@ Sử dụng quai xách cốc cà phê cũng là một cách nhỏ nhưng ý ngh�
 
 Trong thế giới đầy bận rộn ngày nay, quai xách cốc cà phê không chỉ là một phụ kiện tiện lợi mà còn là biểu tượng của phong cách và sự tự chủ. Việc sử dụng quai xách không chỉ mang lại sự tiện lợi khi di chuyển mà còn thể hiện cam kết của chúng ta đối với việc bảo vệ môi trường. Đồng thời, đây cũng là một cách thú vị và phong phú để thể hiện phong cách cá nhân của bạn mỗi khi thưởng thức một tách cà phê.
 
-Dưới đây là thông tin liên hệ đến chúng tôi
-
-Công ty TNHH XNK PACKBN
-
-Đường dây nóng: 0904636473/0902127123
-
-Thư: info@packbn.com
-Web: [www.packbn.com](http://www.packbn.com/?fbclid=IwAR3_htiq42CothniiSdsM1W3wzcacYF8FmVL3r5pII77mMzOvM_zoZeEiFk_aem_Ac5OrqhQqEt0jBWaI9rBBkrSWhU7WkE3YuSskc4o0889SPhMDr5tSY6hMB7EnK0_12btEGjI0-_tdo6gyM3oKaau)
-Tiktok: [https://www.tiktok.com/@cocgiaypackbn](https://www.tiktok.com/@cocgiaypackbn?fbclid=IwAR16zX8bpFLAWhks8HfCSWuotUmmJGWTgWHm9HrSSfpwyxN9Wm0UtlkjAqA_aem_Ac4Dodi5lowgbAMu__neYeuRTskOtAIUcCqGtlADoMFIFeakopzmWVfAw3JH77PJOpVXW7XS51rTDpXezAsAUHUV)
-Instagram: [www.instagram.com/cocgiaypackbn](https://www.instagram.com/cocgiaypackbn?fbclid=IwAR2VNwSvf72i-ygAsVe8BXBHlQ_YlaUM-YtG-88K_ijLnH9hOozfBlX2VIo_aem_Ac6xV3kvkECk7m0rTgn8WKEYgABviiR66N8L_0T_F7DaaRMEX88j9JVPH4ewG7A7qrneNZHL3PHvg2vNwg46tCn4)
-Fanpage: [https://www.facebook.com/Packbn](https://www.facebook.com/Packbn?__cft__[0]=AZUyJy22E1iK5_KqF_YkDvsjZK_hMx_IgyWgliQfUXmQxidXfM06zJc8fl5NqKAUlqmKDRT8YupvLPvyX5KVTInGh1P28oSz6KnRY-i5YNSYTgeJdVleGwRaLSG32RMeFChnmsnD3PUVc2whjcbzosUWPrA2aj5Lo5XWbYReiegiMWBpKHBvQAcm-bpGHmD081s&__tn__=-]K-R)
-Email: info@packbn.com
-Shopee: [https://shopee.vn/packbn](https://shopee.vn/packbn?fbclid=IwAR2NRW4lfVNZlmINa7QujBgGDFpxWcj51QtNJWYxS1MHviCqwR_y82hIJlI_aem_Ac4X4D09VqO8Oi0vpBSlmIIraoLTdM-Zr2cHKzOQOzKhs2cNBcgE2dUoGg1oct9A2oGCoDfqjB3jypTA9wMdspsn)
-Lazada : [https://www.lazada.vn/shop/bao-bi-packbn/](https://www.lazada.vn/shop/bao-bi-packbn/?fbclid=IwAR16zX8bpFLAWhks8HfCSWuotUmmJGWTgWHm9HrSSfpwyxN9Wm0UtlkjAqA_aem_Ac4Dodi5lowgbAMu__neYeuRTskOtAIUcCqGtlADoMFIFeakopzmWVfAw3JH77PJOpVXW7XS51rTDpXezAsAUHUV)
- Địa chỉ văn phòng Hà Nội:
-Số 84 ngõ 113 Đan Khê, KCN Di Trạch, Hoài Đức, Hà Nội.
- Địa chỉ nhà máy cốc giấy: KCN Di Trạch, Hoài Đức, Hà Nội
+---

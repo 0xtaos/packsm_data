@@ -50,9 +50,4 @@ Tóm lại, sự phổ biến ngày càng tăng của ly giấy có nguồn gố
 
 Quý khách hàng đang tìm kiếm một nguồn hàng [CỐC GIẤY PACKBN](https://packbn.com/) giá rẻ, chất lượng và nhiều ưu đãi đừng chần chừ, hãy liên hệ ngay với chúng tôi !
 
-Fanpage: [https://www.facebook.com/Packbn](https://www.facebook.com/Packbn?__cft__[0]=AZUhuBH4B7mPEBDTLNjfKORfY4rlKcC3iZUhxU1jXg6KPbrkH4812bwCXHOPKWV4up1RIHpPR13Vd1Z1rRBRr3TStwnVFH9IrlKCPYlMnqZtARj8Z_NUDCxIRJcSrh_rBw58yEr1xtaZPVPrYji-FKQAHLBNjZA32qzmGHyqCZNrwjfUO77HuGVtni47fdiQqek&__tn__=-]K-R)
-Shopee : [https://shopee.vn/packbn](https://l.facebook.com/l.php?u=https%3A%2F%2Fshopee.vn%2Fpackbn%3Ffbclid%3DIwAR3Q7T23MQ1qgni3FqPioZ1VuRVcDe1_OOJZwjWJ3lXpTb2Al5xuXO9G-Ws&h=AT3dnbcrk1NJ6wdRVITHUduPeC3J0jTyfHhRVUsl0gkB06u7qoIGlVuLhN-4_fRYY-JXn7iFrwu-KiLgskUEjRlAleIoyX1YLce9eOlLA1OKnBfvZqrDmG3qpsS8S8uSxjlT3a4NcOdEwnQPqhiz&__tn__=-UK-R&c[0]=AT36nu19jQ0DV6LIEXMxm_N2pZhQRkB9G33r5jc3TbBeYIoc_I8qdLfLny7b0ZoMKsFdfMezjW2navsikOOr4MwIjt1-GnV-EY2wwXxApL5WSP167yBtOtns8IJmI8FMfDmxa83ARTD33bkMPXZvuCbP3wj6TBGt428gJD6lk3iFUhtqUaxb7MlTtc8iE413_Oa3b48XSzoB)
-Lazada : [https://www.lazada.vn/shop/bao-bi-packbn/](https://www.lazada.vn/shop/bao-bi-packbn/?fbclid=IwAR3VWoIfHJZyAboj3I7dRbHDpEgOer4kc5lWmol89J_EUY2CgQ2qmVp_w2g)
- Địa chỉ văn phòng Hà Nội:
-Số 84 ngõ 113 Đan Khê, KCN Di Trạch, Hoài Đức, Hà Nội.
- Địa chỉ nhà máy cốc giấy: KCN Di Trạch, Hoài Đức, Hà Nội
+---

@@ -46,16 +46,4 @@ Việc xử lý rác thải một cách thông minh không chỉ là trách nhi�
 
 Nhìn chung, việc xử lý rác thải một cách thông minh không chỉ giúp bảo vệ môi trường mà còn giúp tạo ra nguồn tài nguyên tái chế và tái sử dụng. Với sự nhận thức và hành động chung từ cộng đồng, chúng ta có thể xử lý rác thải một cách thông minh và bảo vệ môi trường cho thế hệ tương lai.
 
-Công ty TNHH XNK PACKBN
-Đường dây nóng: 0904636473/0902127123
-Thư: info@packbn.com
-Web: [www.packbn.com](http://www.packbn.com/?fbclid=IwAR07nyZ7cUor2hrMyPZf3z7SiYIy3v9VnFZCedS9EnUt3pgCQb3iSaqFIA0)
-Tiktok: [https://www.tiktok.com/@cocgiaypackbn](https://www.tiktok.com/@cocgiaypackbn?fbclid=IwAR2poW_OaAKKL08oretaxMLM69tXoOiglfixa40GPzVyz9ylcWV5s8NQP2o)
-Instagram: [www.instagram.com/cocgiaypackbn](https://www.instagram.com/cocgiaypackbn?fbclid=IwAR0vZ3iM28cZ6kUGIklgP7gayh5nWcUs3arzKxPnCFoemoGDbvZuWxLJOD4)
-Fanpage: [https://www.facebook.com/Packbn](https://www.facebook.com/Packbn?__cft__[0]=AZWJfvOjAg0zmYwAx0GFQW7VC98uroA_GF2MtEWwRqOj7dcpQ_QEDrJSUy3e_NMlPxwSGDVLIbDERBAtHVmPd7Q5qhryI29KfhUpPzDqrAMlWNv8ifknLoGLV0CWXw0mdV5b3jYRs4Uh_Zt_2cQ04CZdXbQUfY88YVEuNtHKHzTdZdJvtXEpjl2TYIztvjzgDE0&__tn__=-]K-R)
-Email: info@packbn.com
-Shopee: [https://shopee.vn/packbn](https://shopee.vn/packbn?fbclid=IwAR2k6SEpq9MtCumxKbP_3VSsWQt9ajRfgLrJVW6jgjlZJ00waK4WjgiUKSg)
-Lazada: [https://www.lazada.vn/shop/bao-bi-packbn/](https://www.lazada.vn/shop/bao-bi-packbn/?fbclid=IwAR1adOzL4McSE-WoTtOAAC_VwXKk7IXbjVA4sqMKojl6gpPoBa1KvWL86ZI)
- Địa chỉ văn phòng Hà Nội:
-Số 84 ngõ 113 Đan Khê, KCN Di Trạch, Hoài Đức, Hà Nội.
- Địa chỉ nhà máy cốc giấy: KCN Di Trạch, Hoài Đức, Hà Nội
+---

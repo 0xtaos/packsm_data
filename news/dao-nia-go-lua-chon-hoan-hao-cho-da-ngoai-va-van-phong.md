@@ -36,11 +36,4 @@ Ngoài tính thân thiện với môi trường, dao nĩa gỗ còn có khả n�
 
 Trên thị trường hiện nay, dao nĩa gỗ không chỉ là một công cụ hữu ích trong các hoạt động dã ngoại mà còn là một phụ kiện trang trí độc đáo trong không gian văn phòng. Với tính đa dụng, thân thiện với môi trường và độ bền bỉ, dao nĩa gỗ là một lựa chọn hoàn hảo cho mọi người, từ những người yêu thiên nhiên đến những người làm việc trong môi trường văn phòng.
 
-Công ty TNHH XNK PACKBN
-Đường dây nóng: 0904636473/0902127123
-Tiktok: [https://www.tiktok.com/@cocgiaypackbn](https://www.tiktok.com/@cocgiaypackbn?fbclid=IwAR2poW_OaAKKL08oretaxMLM69tXoOiglfixa40GPzVyz9ylcWV5s8NQP2o)
-Instagram: [www.instagram.com/cocgiaypackbn](https://www.instagram.com/cocgiaypackbn?fbclid=IwAR0vZ3iM28cZ6kUGIklgP7gayh5nWcUs3arzKxPnCFoemoGDbvZuWxLJOD4)
-Fanpage: [https://www.facebook.com/Packbn](https://www.facebook.com/Packbn?__cft__[0]=AZWJfvOjAg0zmYwAx0GFQW7VC98uroA_GF2MtEWwRqOj7dcpQ_QEDrJSUy3e_NMlPxwSGDVLIbDERBAtHVmPd7Q5qhryI29KfhUpPzDqrAMlWNv8ifknLoGLV0CWXw0mdV5b3jYRs4Uh_Zt_2cQ04CZdXbQUfY88YVEuNtHKHzTdZdJvtXEpjl2TYIztvjzgDE0&__tn__=-]K-R)
-Email: info@packbn.com
-Shopee: [https://shopee.vn/packbn](https://shopee.vn/packbn?fbclid=IwAR2k6SEpq9MtCumxKbP_3VSsWQt9ajRfgLrJVW6jgjlZJ00waK4WjgiUKSg)
-Lazada: [https://www.lazada.vn/shop/bao-bi-packbn/](https://www.lazada.vn/shop/bao-bi-packbn/?fbclid=IwAR1adOzL4McSE-WoTtOAAC_VwXKk7IXbjVA4sqMKojl6gpPoBa1KvWL86ZI)
+---
