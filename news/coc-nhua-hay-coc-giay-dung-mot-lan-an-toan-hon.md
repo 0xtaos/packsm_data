@@ -4,7 +4,7 @@ slug: "coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-featured.jpg"
+featuredImage: "/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-featured.webp"
 ---
 Trong cuộc sống hiện đại, cốc giấy dùng một lần, ly giấy, tô giấy là sản phẩm vô cùng tiện lợi. Chúng không cần vệ sinh, dọn rửa, giúp tiết kiệm thời gian, chi phí nhân công cho đơn vị kinh doanh, nhà hàng, quán cà phê, trà sữa,… Tuy nhiên, hiện nay việc kiểm soát chất lượng với sản phẩm này vẫn đang bị bỏ ngỏ?
 
@@ -16,13 +16,13 @@ Lý do giá cốc giấy dùng một lần cao hơn giá cốc nhựa
 
 ## **Về nguyên liệu**
 
-![cốc giấy dùng một lần](/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-image-1.jpg)
+![cốc giấy dùng một lần](/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-image-1.webp)
 *cốc giấy dùng một lần*
 Dựa vào tên của hai loại sản phẩm, chắc chắn ai cũng có thể nhận ra sự khác biệt. Đối với ly giấy, nguyên liệu chính làm nên chính là **bột giấy** nguyên chất còn ly nhựa, cốc nhựa được làm từ **nhựa**. **Chính bởi làm từ nguyên liệu tự nhiên đảm bảo sức khỏe cho người dùng vì thế mà giá cốc giấy đắt hơn giá cốc nhựa cũng là điều dễ hiểu**. Nguyên liệu sản xuất cốc giấy là hạt giấy nguyên sinh và lớp chống thấm PE (Polyetylen). Yếu tố quyết định ở đây là chất lượng, lượng tạp chất của hạt giấy và lớp PE này
 
 ### **Về tính vệ sinh, an toàn của cốc giấy dùng một lần**
 
-![cốc giấy dùng một lần](/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-image-2.jpg)
+![cốc giấy dùng một lần](/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-image-2.webp)
 *cốc giấy dùng một lần*
 Khi sử dụng cốc giấy dùng một lần không nên đựng đồ uống nóng trên 70 độ. Vì khi ở nhiệt độ quá cao khiến lớp tráng trong cốc giấy bị bong ra thấm vào thức uống. Việc nuốt phải chất gây ô nhiễm như hạt nhựa nhỏ, ion có hại, kim loại nặng… làm tăng nguy cơ hình thành các khuyết tật sinh sản, ung thư, thậm chí là rối loạn thần kinh. Mặc dù vậy, các thương hiệu cà phê, đồ ăn nhanh vẫn bất chấp nguy cơ tiềm ẩn tới sức khỏe người tiêu dùng hay môi trường mà lạm dụng việc sử dụng cốc giấy 1 lần để tiết kiệm nhân công và giảm chi phí.
 
@@ -32,7 +32,7 @@ Thế nhưng khi **ở nhiệt độ nóng thì cốc nhựa không thể sánh 
 
 ### **Về tính thẩm mỹ**
 
-![cốc giấy dùng một lần](/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-image-3.jpg)
+![cốc giấy dùng một lần](/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-image-3.webp)
 *cốc giấy dùng một lần*
 Có thể nói **cốc giấy dùng một lần đảm bảo sự thẩm mỹ hơn hẳn cốc nhựa**. Ngày nay, cùng với sự đầu tư về thiết kế, hầu như không có cốc giấy nào ra đời mà không được trau chuốt về vẻ bề ngoài. Ngoài ra, với vỏ ngoài **dễ dàng in ấn**, các doanh nghiệp cũng vô cùng thích thú với việc **in logo** vào vỏ ngoài của cốc giấy giúp thu hút khách hàng cũng như **mang lại hiệu quả kinh doanh cao hơn**. Việc đầu tư cho sự thẩm mỹ cũng góp phần nâng cao giá cốc giấy dùng một lần so với cốc nhựa.
 
@@ -40,7 +40,7 @@ Có thể nói, dù “sinh sau đẻ muộn” so với cốc nhựa nhưng **c
 
 ### **Về quy chuẩn**
 
-![cốc giấy dùng một lần](/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-image-4.jpg)
+![cốc giấy dùng một lần](/news/images/coc-nhua-hay-coc-giay-dung-mot-lan-an-toan-hon-image-4.webp)
 *cốc giấy dùng một lần*
 Vậy sản phẩm cốc giấy dùng 1 lần như thế nào là an toàn, có cần hợp quy không, hợp quy theo quy chuẩn nào? Theo QCVN 12-1:2011/BYT Quy chuẩn kỹ thuật quốc gia về bao bì và vật liệu tiếp xúc trực tiếp với thực phẩm, các sản phẩm tiếp xúc thực phẩm làm từ PE (Polyetylen) phải được hợp quy trước khi lưu thông trên thị trường. Do vậy, cốc giấy 1 lần phải được hợp quy để đảm bảo an toàn cho người sử dụng.
 

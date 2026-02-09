@@ -4,7 +4,7 @@ slug: "coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-featured.jpg"
+featuredImage: "/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-featured.webp"
 ---
 Cốc giấy và ống hút giấy là hai sản phẩm được sử dụng rộng rãi trong cuộc sống hàng ngày của chúng ta. Tuy nhiên, ít ai biết rằng việc sử dụng cốc giấy và ống hút giấy có thể góp phần bảo vệ môi trường và giảm thiểu tác động tiêu cực đến hệ sinh thái. Trong bài viết này, chúng ta sẽ tìm hiểu về những lợi ích của việc sử dụng cốc giấy và ống hút giấy, cũng như cách chúng có thể giúp chúng ta xây dựng một môi trường sống bền vững.
 
@@ -18,7 +18,7 @@ Cốc giấy đã xuất hiện từ rất lâu trong lịch sử con người. 
 
 Tuy nhiên, cho đến thế kỷ 20, cốc giấy vẫn chưa được sản xuất công nghiệp và chỉ được làm thủ công bởi những người thợ lành nghề. Đến năm 1907, một người Mỹ gốc Đức tên là Lawrence Luellen đã phát minh ra máy sản xuất cốc giấy đầu tiên, giúp việc sản xuất cốc giấy trở nên dễ dàng và nhanh chóng hơn.
 
-![quai xách ly lá cây](/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-image-1.jpg)
+![quai xách ly lá cây](/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-image-1.webp)
 *Cốc giấy thân thiện với môi trường*
 ### Lợi ích của việc sử dụng cốc giấy
 
@@ -26,7 +26,7 @@ Và ước tính, hơn 16 tỷ ly cafe được đựng trong những chiếc c�
 
 Vì vậy, để bảo vệ môi trường, điều chúng ta cần không chỉ là những phong trào nhất thời, những hành động chạy theo đám đông mù quáng mà chúng ta cần học hỏi, tìm hiểu xem bản thân đã làm đúng cách hay chưa. Đơn giản như việc dùng cốc giấy, nhiều người nhầm tưởng bảo vệ môi trường, đáng tiếc là, nó lại “giết” môi trường theo một cách khác.
 
-![Cốc giấy thân thiện với môi trường](/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-image-2.jpg)
+![Cốc giấy thân thiện với môi trường](/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-image-2.webp)
 *Cốc giấy thân thiện với môi trường*
 Là một giải pháp thay thế thân thiện với môi trường so với các loại cốc nhựa hay cốc foam (xốp). Các lợi ích của việc sử dụng cốc giấy bao gồm:
 
@@ -72,7 +72,7 @@ Sau khi sử dụng, chúng ta nên thu gom và đưa cốc giấy và ống hú
 
 Nếu không thể tái chế, chúng ta nên đưa cốc giấy và ống hút giấy vào các thùng rác phân hủy sinh học. Điều này giúp chúng được phân hủy một cách an toàn và không gây ô nhiễm môi trường.
 
-![cốc kraft 22oz 650ml](/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-image-3.jpg)
+![cốc kraft 22oz 650ml](/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-image-3.webp)
 *cốc giấy 22oz 650ml*
 #### Sử dụng lại cốc giấy và ống hút giấy
 

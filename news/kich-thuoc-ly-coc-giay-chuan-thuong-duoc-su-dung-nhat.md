@@ -4,7 +4,7 @@ slug: "kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-featured.jpg"
+featuredImage: "/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-featured.webp"
 ---
 Sử dụng** Ly/cốc giấy dùng một lần** đang dần thành thói quen cho mọi người hiện nay thay vì cốc nhựa. Người ta sử dụng cốc giấy cho nhiều mục đích khác nhau. Bởi thế mà kích thước tiêu chuẩn hiện có của **ly/cốc giấy** cũng thật đa dạng sao cho phù hợp với mọi người. Trong bài viết này,Packbn  sẽ giúp bạn tìm hiểu thêm về các kích cỡ khác nhau của ly giấy. Từ đó chọn được kích thước ly giấy phù hợp cho nhu cầu của mình nhé!
 
@@ -18,7 +18,7 @@ Trên thân cốc giấy cũng chính là vị trí lý tưởng cho việc qu�
 
 ### Cấu tạo ly/cốc giấy
 
-![ly/cốc giấy](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-1.jpg)
+![ly/cốc giấy](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-1.webp)
 *ly/cốc giấy*
 ### 
 
@@ -32,7 +32,7 @@ Cốc giấy trông khá đơn giản nhưng nó cũng được chia ra làm nhi
 
 ## Những loại kích thước ly/cốc giấy phổ biến?
 
-![cốc giấy kraft nóng 400ml 12oz](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-2.jpg)
+![cốc giấy kraft nóng 400ml 12oz](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-2.webp)
 *cốc giấy kraft nóng 400ml 12oz*
 Ly giấy không những được dùng để chứa các loại thức uống, mà trong nhiều trường hợp chúng còn được sử dụng trong các ngành nghề khác nữa. Do đó nên có rất nhiều kích thước khác nhau từ nhỏ đến lớn.
 
@@ -54,7 +54,7 @@ Ngoài chất liệu giấy Kraft an toàn, ly/cốc giấy còn chiếm đượ
 
 #### Ly/cốc giấy uống lạnh
 
-![quai xách ly lá cây](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-3.jpg)
+![quai xách ly lá cây](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-3.webp)
 *quai xách ly lá cây*
 **Ly/cốc giấy lạnh** đa dạng về kiểu dáng và dung tích. Thường dung thích có thể rơi vào khoảng từ 12OZ đến 24OZ. Cốc giấy lạnh có thể dùng để đựng các loại đồ uống nóng và lạnh linh hoạt. Có hai cỡ ly giấy lạnh được sử dụng nhiều nhất là 16OZ và 22OZ
 
@@ -67,7 +67,7 @@ Ngoài chất liệu giấy Kraft an toàn, ly/cốc giấy còn chiếm đượ
 
 ### **Nguyên liệu sản xuất ly giấy**
 
-![ly/cốc giấy](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-4.jpg)
+![ly/cốc giấy](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-4.webp)
 *ly/cốc giấy*
 Yếu tố chất liệu làm ly giấy có tác động quan trọng đến chất lượng cũng như mức độ an toàn của sản phẩm. Vì vậy chúng sẽ được chế tạo từ những nguyên liệu sản xuất giấy tinh khiết. Riêng với ly giấy, chúng còn được tráng một lớp Poly Etylen (PE) để tăng khả năng chống thấm nước tối ưu.
 
@@ -75,7 +75,7 @@ Giấy tráng PE để làm ly giấy được sử dụng trong việc sản xu
 
 ### **Tiêu chuẩn về quá trình in ấn**
 
-![quai xách ly lá cây](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-5.jpg)
+![quai xách ly lá cây](/news/images/kich-thuoc-ly-coc-giay-chuan-thuong-duoc-su-dung-nhat-image-5.webp)
 *quai xách ly lá cây*
 Công nghệ in ấn đã rất quen thuộc hiện nay với các phương pháp tối ưu. Điều cần quan tâm đó chính là chất lượng mực in.
 

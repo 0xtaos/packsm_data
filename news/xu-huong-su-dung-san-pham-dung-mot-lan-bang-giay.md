@@ -4,15 +4,15 @@ slug: "xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-featured.jpg"
+featuredImage: "/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-featured.webp"
 ---
 Năm 2024 đã chứng kiến sự gia tăng của nhận thức và hành động đối với bảo vệ môi trường, và một trong những xu hướng đáng chú ý là việc sử dụng sản phẩm dùng một lần bằng giấy. Dưới đây là một cái nhìn tổng quan về môi trường trong năm 2024 và tại sao việc sử dụng sản phẩm dùng một lần bằng giấy là một phần của xu hướng này:
 
 ## **Tình Trạng Môi Trường Năm 2024**
 
-![Image](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-1.jpg)
+![Image](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-1.webp)
 
-![sản phẩm dùng một lần bằng giấy](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-2.jpg)
+![sản phẩm dùng một lần bằng giấy](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-2.webp)
 *sản phẩm dùng một lần bằng giấy*
 Trong bối cảnh tăng cường nhận thức về vấn đề ô nhiễm nhựa và tác động của nó đến môi trường, người tiêu dùng đang chuyển sang sử dụng các sản phẩm dùng một lần làm từ giấy. Các sản phẩm như ly giấy, ống hút giấy, đĩa và thìa giấy đã trở thành lựa chọn phổ biến hơn, thay thế cho các sản phẩm làm từ nhựa.
 
@@ -30,7 +30,7 @@ Trong thời đại đang tăng cường nhận thức về vấn đề ô nhi�
 
 ## Lợi Ích Môi Trường
 
-![sản phẩm dùng một lần bằng giấy](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-1.jpg)
+![sản phẩm dùng một lần bằng giấy](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-1.webp)
 *sản phẩm dùng một lần bằng giấy*
 Sử dụng sản phẩm dùng một lần bằng giấy mang lại nhiều lợi ích môi trường đáng kể. Dưới đây là một số lợi ích quan trọng của việc này:
 
@@ -57,7 +57,7 @@ khả năng tái chế và tái sử dụng của sản phẩm dùng một lần
 
 ## **Nhận Thức Cộng Đồng và Hành Động Cá Nhân**
 
-![sản phẩm dùng một lần bằng giấy](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-6.jpg)sản phẩm dùng một lần bằng giấy
+![sản phẩm dùng một lần bằng giấy](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-6.webp)sản phẩm dùng một lần bằng giấy
 Xu hướng sử dụng sản phẩm dùng một lần bằng giấy không chỉ là một lựa chọn cá nhân mà còn là một phần của phong trào nhận thức cộng đồng về bảo vệ môi trường. Việc chọn lựa sản phẩm thân thiện với môi trường không chỉ là một hành động cá nhân mà còn là một cách để góp phần vào việc bảo vệ hành tinh chung của chúng ta.
 
 **Phong Trào Nhận Thức Cộng Đồng:** Xu hướng sử dụng sản phẩm giấy không chỉ đến từ quyết định cá nhân mà còn là một phần của phong trào nhận thức cộng đồng về bảo vệ môi trường. Thông qua việc chia sẻ thông tin, kiến thức và kinh nghiệm, cộng đồng có thể tạo ra một tác động lớn hơn và lan tỏa ý thức về việc sử dụng sản phẩm thân thiện với môi trường.

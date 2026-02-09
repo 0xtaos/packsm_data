@@ -4,7 +4,7 @@ slug: "xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-featured.jpg"
+featuredImage: "/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-featured.webp"
 ---
 Ngày nay “sống xanh là một trào lưu được hưởng ứng trên toàn cầu, nhằm bảo vệ môi trường và ứng phó với biến đổi khí hậu. Để làm được điều này, người sử dụng nên xây dựng[** các thói quen sử dụng cốc giấy tốt môi trường**](https://packbn.com/wp), chẳng hạn như các loại bao bì, vật dụng sinh học có khả năng phân hủy cao, dễ tái chế. Nhằm giúp bạn duy trì lối sống xanh, tạo thói quen lành mạnh. Cùng theo dõi bài viết [Packbn](https://packbn.com/wp) sau đây nhé.
 
@@ -12,7 +12,7 @@ Ngày nay “sống xanh là một trào lưu được hưởng ứng trên toà
 
 Việc rác thải nhựa ngập tràn trên khắp mọi nơi, gây nên nhiều ảnh hưởng và phá hủy hệ sinh thái, môi trường sống của nhân loại. Để có thể khắc phục tình trạng này, nhiều tổ chức đã kêu gọi con người nên thay đổi thói quen hạn chế các loại nhựa dùng một lần. Thay vào đó là sử dụng các sản phẩm cốc giấy, ly giấy, quai xách ly,…. phẩm tốt cho môi trường.
 
-![Thói quen sử dụng cốc giấy](/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-1.jpg)
+![Thói quen sử dụng cốc giấy](/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-1.webp)
 *Thói quen sử dụng cốc giấy*
 Sản phẩm được xem là thân thiện với môi trường phải đáp ứng đủ các tiêu chí như:
 
@@ -30,7 +30,7 @@ Có thể tái chế: Việc sử dụng các sản phẩm tốt với môi trư
 
 Xu hướng sử dụng dao, thìa, nĩa ăn một lần bằng gỗ không chỉ được nhiều tiệm ăn hưởng mà nhiều người dùng còn thích thú. Bởi những sản phẩm thìa, nĩa bằng gỗ hiện nay được thiết kế khá đẹp mắt, giá thành không cao. Các sản phẩm được làm từ những nguyên liệu tự nhiên, không gây hại cho sức khỏe.
 
-![thói quen sử dụng cốc giấy](/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-2.jpg)
+![thói quen sử dụng cốc giấy](/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-2.webp)
 *thói quen sử dụng cốc giấy*
 Những sản phẩm vừa thân thiện với môi trường vừa có lợi cho sức khỏe của bạn. Từ nay hãy bỏ thói quen sử dụng muỗng nhựa, nĩa nhựa bằng các sản phẩm sinh học, để chung tay hạn chế rác thải nhựa, bảo vệ môi trường sống.
 
@@ -46,7 +46,7 @@ Chi phí để sở hữu túi giấy rất thấp, sản phẩm còn có thể 
 
 Thay vì sử dụng các loại ly nhựa, tô nhựa tiềm ẩn những mối nguy hại cho sức khỏe. Từ giờ bạn nên sử dụng các loại ly giấy, tô giấy, sản phẩm được làm từ tinh bột giấy tinh khiết, được sản xuất ở những khu lâm nghiệp bền vững. Hoặc ly giấy tô giấy, được tráng lớp bột ngô tự nhiên và có thể tái tạo (PLA), chúng có thể phân hủy hoàn toàn trong môi trường thủy phân từ 12 tuần đến 3 tháng.
 
-![thói quen sử dụng cốc giấy](/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-3.jpg)
+![thói quen sử dụng cốc giấy](/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-3.webp)
 *thói quen sử dụng cốc giấy*
 Ly giấy, tô giấy là sản phẩm bảo vệ môi trường tốt, dùng để thay thế các sản phẩm nhựa khó phân hủy, khó tái chế.
 
@@ -56,6 +56,6 @@ Khi trà sữa, cà phê và nhiều thức uống khác lên ngôi. Việc kinh
 
 Do vậy bạn cần bắt đầu sử dụng các sản phẩm thân thiện môi trường như ống hút giấy. Ống hút được làm với chất liệu giấy cao cấp, vừa an toàn vừa bền bỉ lại dễ dàng phân hủy, không làm lại với môi trường đất, nước và các loài sinh vật.
 
-![thói quen sử dụng cốc giấy, ống hút giấy](/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-4.jpg)
+![thói quen sử dụng cốc giấy, ống hút giấy](/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-4.webp)
 
 ---

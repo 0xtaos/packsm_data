@@ -4,7 +4,7 @@ slug: "ong-hut-giay-giai-phap-than-thien-voi-moi-truong"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-featured.jpg"
+featuredImage: "/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-featured.webp"
 ---
 ## Lịch sử và xuất xứ của ống hút giấy
 
@@ -14,7 +14,7 @@ Trước những lo ngại về sự gia tăng của đồ nhựa dùng một l�
 
 ## Lợi ích của việc sử dụng ống hút giấy
 
-![ống hút giấy phi 6](/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-image-1.jpg)
+![ống hút giấy phi 6](/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-image-1.webp)
 *Ống hút giấy phi 6*
 Các lợi ích của việc sử dụng ống hút giấy bao gồm:
 
@@ -32,7 +32,7 @@ Tương tự như cốc giấy, ống hút giấy không chứa các hóa chất
 
 ## Các ứng dụng của ống hút giấy
 
-![Ống hút giấy kraft phi 6](/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-image-2.jpg)
+![Ống hút giấy kraft phi 6](/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-image-2.webp)
 *Ống hút giấy kraft phi 6*
 Các ứng dụng chính của ống hút giấy bao gồm:
 
@@ -52,7 +52,7 @@ Dù vậy, sự chuyển đổi này lại đặt doanh nghiệp trước nhiề
 
 Đa số con người ưu tiên sự tiện lợi của cá nhân trước tiên, trong khi gánh nặng về môi trường thường được xem là vấn đề “cha chung không ai khóc”. Vì dùng ống hút nhựa thì dễ dàng hơn, vì không phải phân loại rác tại nhà thì đỡ mệt hơn, nên chúng ta không chỉ gây hại trực tiếp đến môi trường, mà còn gián tiếp tăng thêm vất vả cho những người đảm nhiệm công việc xử lý rác.
 
-![Ống hút giấy thân thiện với môi trường](/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-image-3.jpg)
+![Ống hút giấy thân thiện với môi trường](/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-image-3.webp)
 *Ống hút giấy thân thiện với môi trường*
 Ống hút giấy cũng có thể được sử dụng trong gia đình để uống nước, soda hay các loại đồ uống khác. Việc sử dụng ống hút giấy thay vì các loại ống nhựa hay kim loại sẽ giúp giảm thiểu lượng rác thải nhựa và bảo vệ môi trường.
 

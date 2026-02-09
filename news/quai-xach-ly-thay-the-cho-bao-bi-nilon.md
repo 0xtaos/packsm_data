@@ -4,7 +4,7 @@ slug: "quai-xach-ly-thay-the-cho-bao-bi-nilon"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-featured.jpg"
+featuredImage: "/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-featured.webp"
 ---
 Quai xách ly và túi nilon đã trở thành một trong những vật dụng không thể thiếu trong cuộc sống hiện đại của chúng ta. Tuy nhiên, việc sử dụng túi nilon đang gây ra nhiều tác hại cho môi trường và sức khỏe con người. Vì vậy, việc thay thế túi nilon bằng các loại túi, quai xách ly thân thiện với môi trường là cần thiết. Trong bài viết này, chúng ta sẽ tìm hiểu về quai xách ly và cách sử dụng nó để thay thế túi nilon.
 
@@ -14,7 +14,7 @@ Người Việt luôn tạo ra nhiều sản phẩm với chất liệu mộc m�
 
 ## Quai xách ly thay thế túi nilon
 
-![quai xách ly lá cây](/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-image-1.jpg)
+![quai xách ly lá cây](/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-image-1.webp)
 *Quai xách ly lá cây*
 [Quai xách ly](https://shopee.vn/100-quai-x%C3%A1ch-ly-gi%E1%BA%A5y-quai-ly-l%C3%A1-c%C3%A2y-t%C3%BAi-ch%E1%BB%AF-T-%C4%91%E1%BB%B1ng-cafe-l%C3%A1-c%C3%A2y-d%E1%BA%BBo-dai-th%C3%A2n-thi%E1%BB%87n-m%C3%B4i-tr%C6%B0%E1%BB%9Dng...-i.64884141.22062408834?sp_atk=fa2882ec-1308-49f5-93e9-97ec7b3349c9&xptdk=fa2882ec-1308-49f5-93e9-97ec7b3349c9) là một loại quai được thiết kế để thay thế cho quai túi xách thông thường. Nó được làm từ các chất liệu thân thiện với môi trường như vải, da hoặc dây thừng. Quai xách ly có thể được sử dụng để mang các loại túi khác nhau như túi giấy, túi vải hay túi xốp. Việc sử dụng quai xách ly thay thế túi nilon sẽ giúp giảm thiểu lượng rác thải nhựa và bảo vệ môi trường.
 
@@ -30,7 +30,7 @@ Ngoài ra, quá trình sản xuất túi nilon cũng gây ra lượng khí thả
 
 #### Lợi ích của việc thay thế quai túi xách
 
-![Quai xách ly lá cây](/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-image-2.jpg)
+![Quai xách ly lá cây](/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-image-2.webp)
 *Quai xách ly lá cây*
 Thay vì sử dụng quai túi xách làm từ nhựa, chúng ta có thể sử dụng các loại quai thân thiện với môi trường như quai xách ly. Việc này sẽ giúp giảm thiểu lượng rác thải nhựa và bảo vệ môi trường. Ngoài ra, việc sử dụng các loại quai thân thiện với môi trường còn giúp tiết kiệm chi phí sản xuất và giảm thiểu lượng khí thải gây hiệu ứng nhà kính.
 
@@ -50,7 +50,7 @@ Túi giấy là một trong những loại túi thân thiện với môi trườ
 
 #### Cách làm túi giấy đúng cách
 
-![quai xách ly lá cây](/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-image-3.jpg)
+![quai xách ly lá cây](/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-image-3.webp)
 *quai xách ly lá cây*
 Để làm được túi giấy đúng cách, chúng ta cần tuân thủ các bước sau:
 

@@ -1,0 +1,38 @@
+{
+  "name": "packsm-contents",
+  "version": "1.0.0",
+  "description": "Contents for packsm.com",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:index": "tsx scripts/build-index.ts",
+    "build:index:dry-run": "tsx scripts/build-index.ts --dry-run",
+    "validate:content": "tsx scripts/validate-frontmatter.ts",
+    "publish:assets": "tsx scripts/publish-assets.ts",
+    "rewrite:md": "tsx scripts/rewrite-md.ts",
+    "lint:frontmatter": "tsx scripts/lint-frontmatter.ts",
+    "sync": "git checkout main && git pull origin main && git fetch --prune",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.955.0",
+    "dayjs": "^1.11.19",
+    "dotenv": "^16.3.1",
+    "gray-matter": "^4.0.3",
+    "image-size": "^2.0.2",
+    "reading-time": "^1.5.0",
+    "sharp": "^0.34.5",
+    "zod": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "husky": "^9.1.7",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "pnpm@10.24.0+sha256.196f4bd174ebcbd99786b33452f144cb2dc32ef4e7138ed44491e9d43d702d75"
+}
