@@ -4,7 +4,7 @@ slug: "quai-xach-ly-thay-the-cho-bao-bi-nilon"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon-featured.webp"
+featuredImage: "/news/images/quai-xach-ly-thay-the-cho-bao-bi-nilon.webp"
 ---
 Quai xách ly và túi nilon đã trở thành một trong những vật dụng không thể thiếu trong cuộc sống hiện đại của chúng ta. Tuy nhiên, việc sử dụng túi nilon đang gây ra nhiều tác hại cho môi trường và sức khỏe con người. Vì vậy, việc thay thế túi nilon bằng các loại túi, quai xách ly thân thiện với môi trường là cần thiết. Trong bài viết này, chúng ta sẽ tìm hiểu về quai xách ly và cách sử dụng nó để thay thế túi nilon.
 

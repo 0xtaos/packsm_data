@@ -4,7 +4,7 @@ slug: "xu-ly-rac-thai-mot-cach-thong-minh-nhu-the-nao"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/xu-ly-rac-thai-mot-cach-thong-minh-nhu-the-nao-featured.webp"
+featuredImage: "/news/images/xu-ly-rac-thai-mot-cach-thong-minh-nhu-the-nao.webp"
 ---
 Xử lý rác thải một cách thông minh là một vấn đề quan trọng đối với sự bền vững của môi trường và xã hội. Rác thải không chỉ gây ô nhiễm môi trường mà còn ảnh hưởng đến sức khỏe con người và sinh vật. Trong bài viết này, chúng ta sẽ tìm hiểu cách xử lý rác thải một cách thông minh để giảm thiểu tác động tiêu cực đến môi trường và con người.
 
