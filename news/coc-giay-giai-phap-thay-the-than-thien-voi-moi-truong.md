@@ -4,7 +4,7 @@ slug: "coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/coc-giay-giai-phap-thay-the-than-thien-voi-moi-truong-featured.webp"
+featuredImage: "/news/images/xay-dung-cac-thoi-quen-su-dung-coc-giay-tot-moi-truong-image-3.webp"
 ---
 Cốc giấy và ống hút giấy là hai sản phẩm được sử dụng rộng rãi trong cuộc sống hàng ngày của chúng ta. Tuy nhiên, ít ai biết rằng việc sử dụng cốc giấy và ống hút giấy có thể góp phần bảo vệ môi trường và giảm thiểu tác động tiêu cực đến hệ sinh thái. Trong bài viết này, chúng ta sẽ tìm hiểu về những lợi ích của việc sử dụng cốc giấy và ống hút giấy, cũng như cách chúng có thể giúp chúng ta xây dựng một môi trường sống bền vững.
 
