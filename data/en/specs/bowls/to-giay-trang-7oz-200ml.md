@@ -10,13 +10,13 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-trang-7oz-200ml.jpg
-  - /images/products/to-giay-trang-7oz-200ml-1.jpg
-  - /images/products/to-giay-trang-7oz-200ml-2.jpg
-  - /images/products/to-giay-trang-7oz-200ml-3.jpg
-  - /images/products/to-giay-trang-7oz-200ml-4.jpg
-  - /images/products/to-giay-trang-7oz-200ml-5.jpg
-  - /images/products/to-giay-trang-7oz-200ml-6.jpg
+  - /images/products/to-giay-trang-7oz-200ml.webp
+  - /images/products/to-giay-trang-7oz-200ml-1.webp
+  - /images/products/to-giay-trang-7oz-200ml-2.webp
+  - /images/products/to-giay-trang-7oz-200ml-3.webp
+  - /images/products/to-giay-trang-7oz-200ml-4.webp
+  - /images/products/to-giay-trang-7oz-200ml-5.webp
+  - /images/products/to-giay-trang-7oz-200ml-6.webp
 applications:
   - Ice Cream
   - Yogurt

@@ -10,9 +10,9 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/khay-giay-kraft-350ml.jpg
-  - /images/products/khay-giay-kraft-350ml-1.jpg
-  - /images/products/khay-giay-kraft-350ml-2.jpg
+  - /images/products/khay-giay-kraft-350ml.webp
+  - /images/products/khay-giay-kraft-350ml-1.webp
+  - /images/products/khay-giay-kraft-350ml-2.webp
 applications:
   - Espresso
   - Cà phê đen

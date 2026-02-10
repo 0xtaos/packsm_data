@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/hop-giay-kraft-nap-cua-so-1000ml.jpg
+  - /images/products/hop-giay-kraft-nap-cua-so-1000ml.webp
   - /images/products/hop-giay-kraft-nap-cua-so-1000ml-1.webp
-  - /images/products/hop-giay-kraft-nap-cua-so-1000ml-2.jpg
-  - /images/products/hop-giay-kraft-nap-cua-so-1000ml-3.jpg
+  - /images/products/hop-giay-kraft-nap-cua-so-1000ml-2.webp
+  - /images/products/hop-giay-kraft-nap-cua-so-1000ml-3.webp
 applications:
   - Rice Boxes
   - Fast Food

@@ -10,9 +10,9 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn.jpg
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn-1.jpg
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn-2.jpg
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn.webp
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn-1.webp
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn-2.webp
 applications:
   - Cà phê
   - Trà

@@ -10,14 +10,14 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-kraft-nau-32oz-1000ml.jpg
-  - /images/products/to-giay-kraft-nau-32oz-1000ml-1.jpg
-  - /images/products/to-giay-kraft-nau-32oz-1000ml-2.jpg
-  - /images/products/to-giay-kraft-nau-32oz-1000ml-3.jpg
-  - /images/products/to-giay-kraft-nau-32oz-1000ml-4.jpg
-  - /images/products/to-giay-kraft-nau-32oz-1000ml-5.jpg
-  - /images/products/to-giay-kraft-nau-32oz-1000ml-6.jpg
-  - /images/products/to-giay-kraft-nau-32oz-1000ml-7.jpg
+  - /images/products/to-giay-kraft-nau-32oz-1000ml.webp
+  - /images/products/to-giay-kraft-nau-32oz-1000ml-1.webp
+  - /images/products/to-giay-kraft-nau-32oz-1000ml-2.webp
+  - /images/products/to-giay-kraft-nau-32oz-1000ml-3.webp
+  - /images/products/to-giay-kraft-nau-32oz-1000ml-4.webp
+  - /images/products/to-giay-kraft-nau-32oz-1000ml-5.webp
+  - /images/products/to-giay-kraft-nau-32oz-1000ml-6.webp
+  - /images/products/to-giay-kraft-nau-32oz-1000ml-7.webp
 applications:
   - Lẩu 1 người
   - Salad gia đình

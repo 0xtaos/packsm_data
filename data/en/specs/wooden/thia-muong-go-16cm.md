@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/thia-muong-go-16cm.jpg
-  - /images/products/thia-muong-go-16cm-1.jpg
-  - /images/products/thia-muong-go-16cm-2.jpg
-  - /images/products/thia-muong-go-16cm-3.jpg
+  - /images/products/thia-muong-go-16cm.webp
+  - /images/products/thia-muong-go-16cm-1.webp
+  - /images/products/thia-muong-go-16cm-2.webp
+  - /images/products/thia-muong-go-16cm-3.webp
 applications:
   - Restaurants
   - Hotels

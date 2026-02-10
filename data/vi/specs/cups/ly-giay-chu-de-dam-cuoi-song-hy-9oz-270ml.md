@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml.jpg
-  - /images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml-1.jpg
-  - /images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml-2.jpg
-  - /images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml-3.jpg
+  - /images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml.webp
+  - /images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml-1.webp
+  - /images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml-2.webp
+  - /images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml-3.webp
 applications:
   - Espresso
   - Cà phê đen

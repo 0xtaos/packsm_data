@@ -10,12 +10,12 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-6oz-180ml-in-hoa-tiet.jpg
-  - /images/products/coc-6oz-180ml-in-hoa-tiet-1.jpg
-  - /images/products/coc-6oz-180ml-in-hoa-tiet-2.jpg
-  - /images/products/coc-6oz-180ml-in-hoa-tiet-3.jpg
-  - /images/products/coc-6oz-180ml-in-hoa-tiet-4.jpg
-  - /images/products/coc-6oz-180ml-in-hoa-tiet-5.jpg
+  - /images/products/coc-6oz-180ml-in-hoa-tiet.webp
+  - /images/products/coc-6oz-180ml-in-hoa-tiet-1.webp
+  - /images/products/coc-6oz-180ml-in-hoa-tiet-2.webp
+  - /images/products/coc-6oz-180ml-in-hoa-tiet-3.webp
+  - /images/products/coc-6oz-180ml-in-hoa-tiet-4.webp
+  - /images/products/coc-6oz-180ml-in-hoa-tiet-5.webp
 applications:
   - Hot Coffee
   - Hot Tea

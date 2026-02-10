@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/que-khuay-ca-phe-packbn-com.jpg
+  - /images/products/que-khuay-ca-phe-packbn-com.webp
   - /images/products/que-khuay-ca-phe-packbn-com-1.webp
-  - /images/products/que-khuay-ca-phe-packbn-com-2.jpg
-  - /images/products/que-khuay-ca-phe-packbn-com-3.jpg
+  - /images/products/que-khuay-ca-phe-packbn-com-2.webp
+  - /images/products/que-khuay-ca-phe-packbn-com-3.webp
 applications:
   - Restaurants
   - Hotels

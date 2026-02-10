@@ -10,12 +10,12 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau.jpg
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-1.jpg
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-2.jpg
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-3.jpg
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-4.jpg
-  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-5.jpg
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau.webp
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-1.webp
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-2.webp
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-3.webp
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-4.webp
+  - /images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau-5.webp
 applications:
   - Coffee
   - Tea

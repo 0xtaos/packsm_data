@@ -10,9 +10,9 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/dia-giay-tron-d200mm-packbn.jpg
-  - /images/products/dia-giay-tron-d200mm-packbn-1.jpg
-  - /images/products/dia-giay-tron-d200mm-packbn-2.jpg
+  - /images/products/dia-giay-tron-d200mm-packbn.webp
+  - /images/products/dia-giay-tron-d200mm-packbn-1.webp
+  - /images/products/dia-giay-tron-d200mm-packbn-2.webp
 applications:
   - Cơm hộp
   - Thức ăn nhanh

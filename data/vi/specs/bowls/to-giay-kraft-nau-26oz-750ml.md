@@ -10,12 +10,12 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-kraft-nau-26oz-750ml.jpg
-  - /images/products/to-giay-kraft-nau-26oz-750ml-1.jpg
-  - /images/products/to-giay-kraft-nau-26oz-750ml-2.jpg
-  - /images/products/to-giay-kraft-nau-26oz-750ml-3.jpg
-  - /images/products/to-giay-kraft-nau-26oz-750ml-4.jpg
-  - /images/products/to-giay-kraft-nau-26oz-750ml-5.jpg
+  - /images/products/to-giay-kraft-nau-26oz-750ml.webp
+  - /images/products/to-giay-kraft-nau-26oz-750ml-1.webp
+  - /images/products/to-giay-kraft-nau-26oz-750ml-2.webp
+  - /images/products/to-giay-kraft-nau-26oz-750ml-3.webp
+  - /images/products/to-giay-kraft-nau-26oz-750ml-4.webp
+  - /images/products/to-giay-kraft-nau-26oz-750ml-5.webp
 applications:
   - Phở đặc biệt
   - Lẩu individual

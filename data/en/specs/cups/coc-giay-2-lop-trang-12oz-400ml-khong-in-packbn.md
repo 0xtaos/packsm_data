@@ -10,12 +10,12 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn.jpg
-  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-1.jpg
-  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-2.jpg
-  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-3.jpg
-  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-4.jpg
-  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-5.jpg
+  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn.webp
+  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-1.webp
+  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-2.webp
+  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-3.webp
+  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-4.webp
+  - /images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn-5.webp
 applications:
   - Coffee
   - Bubble Tea

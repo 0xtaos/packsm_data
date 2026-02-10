@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/nia-go-16cm.jpg
+  - /images/products/nia-go-16cm.webp
   - /images/products/nia-go-16cm-1.jpeg
-  - /images/products/nia-go-16cm-2.jpg
-  - /images/products/nia-go-16cm-3.jpg
+  - /images/products/nia-go-16cm-2.webp
+  - /images/products/nia-go-16cm-3.webp
   - /images/products/nia-go-16cm-4.webp
 applications:
   - Restaurants

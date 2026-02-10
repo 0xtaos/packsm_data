@@ -10,12 +10,12 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-trang-10oz-300ml.jpg
-  - /images/products/to-giay-trang-10oz-300ml-1.jpg
-  - /images/products/to-giay-trang-10oz-300ml-2.jpg
-  - /images/products/to-giay-trang-10oz-300ml-3.jpg
-  - /images/products/to-giay-trang-10oz-300ml-4.jpg
-  - /images/products/to-giay-trang-10oz-300ml-5.jpg
+  - /images/products/to-giay-trang-10oz-300ml.webp
+  - /images/products/to-giay-trang-10oz-300ml-1.webp
+  - /images/products/to-giay-trang-10oz-300ml-2.webp
+  - /images/products/to-giay-trang-10oz-300ml-3.webp
+  - /images/products/to-giay-trang-10oz-300ml-4.webp
+  - /images/products/to-giay-trang-10oz-300ml-5.webp
 applications:
   - Phở
   - Bún

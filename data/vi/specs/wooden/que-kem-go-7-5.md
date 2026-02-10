@@ -11,8 +11,8 @@ certifications:
   - BPA-Free
 gallery:
   - /images/products/que-kem-go-7-5.webp
-  - /images/products/que-kem-go-7-5-1.jpg
-  - /images/products/que-kem-go-7-5-2.jpg
+  - /images/products/que-kem-go-7-5-1.webp
+  - /images/products/que-kem-go-7-5-2.webp
   - /images/products/que-kem-go-7-5-3.webp
 applications:
   - Nhà hàng

@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/ong-hut-giay-kraft-phi-8.jpg
-  - /images/products/ong-hut-giay-kraft-phi-8-1.jpg
-  - /images/products/ong-hut-giay-kraft-phi-8-2.jpg
-  - /images/products/ong-hut-giay-kraft-phi-8-3.jpg
-  - /images/products/ong-hut-giay-kraft-phi-8-4.jpg
+  - /images/products/ong-hut-giay-kraft-phi-8.webp
+  - /images/products/ong-hut-giay-kraft-phi-8-1.webp
+  - /images/products/ong-hut-giay-kraft-phi-8-2.webp
+  - /images/products/ong-hut-giay-kraft-phi-8-3.webp
+  - /images/products/ong-hut-giay-kraft-phi-8-4.webp
 applications:
   - Trà sữa
   - Sinh tố

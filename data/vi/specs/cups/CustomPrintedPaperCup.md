@@ -6,7 +6,7 @@ customPrint: true
 moqPrint: 5000
 badge: "Popular"
 certifications: ["FDA", "LFGB", "BPA-Free"]
-gallery: ["/images/products/cup-custom.jpg"]
+gallery: ["/images/products/cup-custom.webp"]
 applications: ["Thương hiệu", "Sự kiện", "Marketing"]
 specifications:
   - label: "Capacity"

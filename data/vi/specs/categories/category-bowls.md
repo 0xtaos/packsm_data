@@ -1,7 +1,7 @@
 ---
 name: "Tô & Bát Giấy"
 description: "Tô giấy dùng cho phở, salad, kem với đa dạng kích thước từ 4oz đến 36oz"
-image: "/images/product-bowl.jpg"
+image: "/images/product-bowl.webp"
 features:
   - "Chịu nhiệt tốt"
   - "Nhiều kích cỡ"

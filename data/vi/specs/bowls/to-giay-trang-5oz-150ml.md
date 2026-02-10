@@ -10,13 +10,13 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-trang-5oz-150ml.jpg
-  - /images/products/to-giay-trang-5oz-150ml-1.jpg
-  - /images/products/to-giay-trang-5oz-150ml-2.jpg
-  - /images/products/to-giay-trang-5oz-150ml-3.jpg
-  - /images/products/to-giay-trang-5oz-150ml-4.jpg
-  - /images/products/to-giay-trang-5oz-150ml-5.jpg
-  - /images/products/to-giay-trang-5oz-150ml-6.jpg
+  - /images/products/to-giay-trang-5oz-150ml.webp
+  - /images/products/to-giay-trang-5oz-150ml-1.webp
+  - /images/products/to-giay-trang-5oz-150ml-2.webp
+  - /images/products/to-giay-trang-5oz-150ml-3.webp
+  - /images/products/to-giay-trang-5oz-150ml-4.webp
+  - /images/products/to-giay-trang-5oz-150ml-5.webp
+  - /images/products/to-giay-trang-5oz-150ml-6.webp
 applications:
   - Kem
   - Sữa chua

@@ -18,8 +18,8 @@
       "nameVi": "Ly & Cốc Giấy",
       "description": "Paper cups in various sizes from 3oz to 22oz, suitable for coffee, bubble tea and beverages",
       "longDescription": "Our premium paper cups are designed to meet all your beverage needs - from hot espresso to iced bubble tea. With advanced manufacturing technology, PACKBN paper cups ensure absolute leak-proof, excellent insulation, and eco-friendliness. Available in sizes from 3oz to 22oz, suitable for all business types from small coffee shops to large chains.",
-      "image": "/images/product-cup.jpg",
-      "heroImage": "/images/hero/cups.jpg",
+      "image": "/images/product-cup.webp",
+      "heroImage": "/images/hero/cups.webp",
       "features": [
         "Leak-proof",
         "Insulated",
@@ -77,8 +77,8 @@
       "nameVi": "Tô & Bát Giấy",
       "description": "Paper bowls for pho, salad, ice cream with sizes from 4oz to 36oz",
       "longDescription": "PACKBN paper bowls are the perfect solution for hot dishes like pho, noodles, porridge, as well as salads and ice cream. Sturdy design with heat resistance up to 100°C, no deformation when containing hot food. Tight-fitting lids ensure no spillage during transport.",
-      "image": "/images/product-bowl.jpg",
-      "heroImage": "/images/hero/bowls.jpg",
+      "image": "/images/product-bowl.webp",
+      "heroImage": "/images/hero/bowls.webp",
       "features": [
         "Heat resistant",
         "Multiple sizes",
@@ -141,8 +141,8 @@
       "nameVi": "Ống Hút Giấy",
       "description": "Paper straws 6mm, 8mm, 12mm - perfect replacement for plastic straws",
       "longDescription": "PACKBN paper straws are the perfect replacement for plastic straws, helping businesses reduce plastic waste and protect the environment. With 3-layer premium paper structure, straws won't get soggy in water for extended periods. Multiple sizes suitable for all types of beverages.",
-      "image": "/images/product-straws.jpg",
-      "heroImage": "/images/hero/straws.jpg",
+      "image": "/images/product-straws.webp",
+      "heroImage": "/images/hero/straws.webp",
       "features": [
         "Biodegradable",
         "Multiple colors",
@@ -192,8 +192,8 @@
       "nameVi": "Hộp Đựng Thực Phẩm",
       "description": "Kraft paper boxes, plates and trays for hot and cold food",
       "longDescription": "Kraft paper food containers are a sustainable packaging solution for the food industry. Sturdy design with convenient lids, perfect for take-away and delivery services. Natural unbleached Kraft material provides a friendly and professional feel.",
-      "image": "/images/product-box.jpg",
-      "heroImage": "/images/hero/containers.jpg",
+      "image": "/images/product-box.webp",
+      "heroImage": "/images/hero/containers.webp",
       "features": [
         "Secure lids",
         "Leak-proof",
@@ -250,8 +250,8 @@
       "nameVi": "Sản Phẩm Gỗ",
       "description": "Natural wooden cutlery - eco-friendly alternative to plastic disposables",
       "longDescription": "PACKBN natural wooden utensils are made from premium birch wood, providing an elegant and eco-friendly dining experience. Smooth surface, no splinters, safe for users. Perfect for restaurants, hotels, and upscale events.",
-      "image": "/images/product-wooden.jpg",
-      "heroImage": "/images/hero/wooden.jpg",
+      "image": "/images/product-wooden.webp",
+      "heroImage": "/images/hero/wooden.webp",
       "features": [
         "100% natural",
         "Fully biodegradable",
@@ -301,7 +301,7 @@
       "name": "Accessories",
       "nameVi": "Phụ Kiện",
       "description": "Plant leaf cup carriers and eco-friendly accessories",
-      "image": "/images/product-accessories.jpg",
+      "image": "/images/product-accessories.webp",
       "features": [
         "Handcrafted",
         "100% natural",
@@ -323,7 +323,7 @@
       "type": "2PE",
       "capacity": "9oz ~ 270ml",
       "excerpt": "Double Wall Cup Kraft Paper 9oz 270ml là một trong những sản phẩm được nhiều người ưa chuộng. Nguyên liệu để tạo nên ly này là giấy 100% nhập khẩu có ...",
-      "image": "/images/products/coc-2-lop-kraft-9oz-260ml.jpg",
+      "image": "/images/products/coc-2-lop-kraft-9oz-260ml.webp",
       "specsId": "cups/coc-2-lop-kraft-9oz-260ml",
       "featured": false,
       "tags": [
@@ -352,7 +352,7 @@
       "type": "2PE",
       "capacity": "12oz ~ 400ml",
       "excerpt": "Double Wall Cup Kraft Paper 12oz 400ml là một trong những sản phẩm được nhiều người ưa chuộng. Nguyên liệu để tạo nên ly này là giấy 100% nhập khẩu có...",
-      "image": "/images/products/coc-2-lop-kraft-12oz-400ml.jpg",
+      "image": "/images/products/coc-2-lop-kraft-12oz-400ml.webp",
       "specsId": "cups/coc-2-lop-kraft-12oz-400ml",
       "featured": false,
       "tags": [
@@ -381,7 +381,7 @@
       "type": "2PE",
       "capacity": "16oz ~ 500ml",
       "excerpt": "Mã sản phẩm: Cốc Kraft 16oz Double Wall Nguyên liệu: Giấy nhập khẩu có tráng PE Material: Double Wall Kraft Paper Capacity: 500ml Dimensions: Diameter...",
-      "image": "/images/products/coc-2-lop-kraft-16oz-500ml.jpg",
+      "image": "/images/products/coc-2-lop-kraft-16oz-500ml.webp",
       "specsId": "cups/coc-2-lop-kraft-16oz-500ml",
       "featured": false,
       "tags": [
@@ -410,7 +410,7 @@
       "type": "2PE",
       "capacity": "22oz ~ 650ml",
       "excerpt": "Double Wall Cup Kraft 22oz 650ml là một trong những sản phẩm được nhiều người ưa chuộng. Nguyên liệu để tạo nên ly này là giấy 100% nhập khẩu có tráng...",
-      "image": "/images/products/coc-2-lop-kraft-22oz-650ml.jpg",
+      "image": "/images/products/coc-2-lop-kraft-22oz-650ml.webp",
       "specsId": "cups/coc-2-lop-kraft-22oz-650ml",
       "featured": false,
       "tags": [
@@ -439,7 +439,7 @@
       "type": "2PE",
       "capacity": "22oz ~ 650ml",
       "excerpt": "Paper Cup 22oz 650ml là một trong những sản phẩm được nhiều người ưa chuộng nhất. Nguyên liệu để tạo nên ly này là giấy 100% nhập khẩu có tráng PE. Sả...",
-      "image": "/images/products/coc-2-lop-trang-22oz-650ml.jpg",
+      "image": "/images/products/coc-2-lop-trang-22oz-650ml.webp",
       "specsId": "cups/coc-2-lop-trang-22oz-650ml",
       "featured": false,
       "tags": [
@@ -467,7 +467,7 @@
       "type": "2PE",
       "capacity": "12oz ~ 400ml",
       "excerpt": "Paper Cup Double Wall trắng 12oz 400ml Plain là một trong những sản phẩm được nhiều người ưa chuộng. Nguyên liệu để tạo nên ly này là giấy 100% nhập k...",
-      "image": "/images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn.jpg",
+      "image": "/images/products/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn.webp",
       "specsId": "cups/coc-giay-2-lop-trang-12oz-400ml-khong-in-packbn",
       "featured": false,
       "tags": [
@@ -495,7 +495,7 @@
       "type": "2PE",
       "capacity": "16oz ~ 500ml",
       "excerpt": "Paper Cup Double Wall trắng 16oz 500ml có hoạt tiết là một trong những sản phẩm được nhiều người ưa chuộng nhất. Nguyên liệu để tạo nên ly này là giấy...",
-      "image": "/images/products/coc-2-lop-trang-16oz-500ml.jpg",
+      "image": "/images/products/coc-2-lop-trang-16oz-500ml.webp",
       "specsId": "cups/coc-2-lop-trang-16oz-500ml",
       "featured": false,
       "tags": [
@@ -523,7 +523,7 @@
       "type": "2PE",
       "capacity": "9oz ~ 270ml",
       "excerpt": "Paper Cup Double Wall trắng 9oz 270ml Plain là một trong những sản phẩm được nhiều người ưa chuộng. Nguyên liệu để tạo nên ly này là giấy 100% nhập kh...",
-      "image": "/images/products/coc-giay-2-lop-trang-9oz-270ml.jpg",
+      "image": "/images/products/coc-giay-2-lop-trang-9oz-270ml.webp",
       "specsId": "cups/coc-giay-2-lop-trang-9oz-270ml",
       "featured": false,
       "tags": [
@@ -551,7 +551,7 @@
       "type": "1PE",
       "capacity": "12oz ~ 400ml",
       "excerpt": "Paper Cup 12oz 400ml có hoạt tiết là một trong những sản phẩm được nhiều người ưa chuộng nhất. Nguyên liệu để tạo nên ly này là giấy 100% nhập khẩu có...",
-      "image": "/images/products/coc-12oz-400ml-in-hoat-tiet.jpg",
+      "image": "/images/products/coc-12oz-400ml-in-hoat-tiet.webp",
       "specsId": "cups/coc-12oz-400ml-in-hoat-tiet",
       "featured": false,
       "tags": [
@@ -580,7 +580,7 @@
       "type": "1PE",
       "capacity": "6oz ~ 180ml",
       "excerpt": "Paper Cup 6oz là một trong những sản phẩm được nhiều người ưa chuộng nhất. Nguyên liệu để tạo nên ly này là giấy 100% nhập khẩu có tráng PE. Sản phẩm ...",
-      "image": "/images/products/coc-6oz-180ml-in-hoa-tiet.jpg",
+      "image": "/images/products/coc-6oz-180ml-in-hoa-tiet.webp",
       "specsId": "cups/coc-6oz-180ml-in-hoa-tiet",
       "featured": false,
       "tags": [
@@ -609,7 +609,7 @@
       "type": "1PE",
       "capacity": "16oz ~ 500ml",
       "excerpt": "Paper Cup 16oz 500ml Pattern Printed là một trong những sản phẩm được nhiều người ưa chuộng. Nguyên liệu để tạo nên ly này là giấy 100% nhập khẩu có t...",
-      "image": "/images/products/coc-16oz-500ml-co-hoa-tiet.jpg",
+      "image": "/images/products/coc-16oz-500ml-co-hoa-tiet.webp",
       "specsId": "cups/coc-16oz-500ml-co-hoa-tiet",
       "featured": false,
       "tags": [
@@ -638,7 +638,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Ngoài sản phẩm Paper Cup Single PE Pattern Printed, quý khách có thể tham khảo thêm nhiều mẫu ly giấy nóng Double Wall chịu nhiệt với nhiều Capacity k...",
-      "image": "/images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn.jpg",
+      "image": "/images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn.webp",
       "specsId": "cups/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn",
       "featured": false,
       "tags": [
@@ -666,7 +666,7 @@
       "type": "1PE",
       "capacity": "9oz",
       "excerpt": "Paper Cup 9oz là một trong những sản phẩm được nhiều người ưa chuộng nhất. Nguyên liệu để tạo nên ly này là giấy 100% nhập khẩu có tráng PE. Sản phẩm ...",
-      "image": "/images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml.jpg",
+      "image": "/images/products/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml.webp",
       "specsId": "cups/ly-giay-chu-de-dam-cuoi-song-hy-9oz-270ml",
       "featured": false,
       "tags": [
@@ -695,7 +695,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Paper Bowl in nhiều họa tiết, đa dạng màu sắc - PACKBN is a premium paper bowl from PACKBN.",
-      "image": "/images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac.jpg",
+      "image": "/images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac.webp",
       "specsId": "bowls/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac",
       "featured": false,
       "tags": [
@@ -722,7 +722,7 @@
       "type": "1PE",
       "capacity": "10oz ~ 300ml",
       "excerpt": "Paper Bowl 10oz với Capacity tương đương 300ml, thiết kế gọn nhẹ phù hợp đựng các sản phẩm như Ice Cream viên, Ice Cream Mochi Nhật Bản, Ice Cream cuộ...",
-      "image": "/images/products/to-giay-trang-10oz-300ml.jpg",
+      "image": "/images/products/to-giay-trang-10oz-300ml.webp",
       "specsId": "bowls/to-giay-trang-10oz-300ml",
       "featured": false,
       "tags": [
@@ -750,7 +750,7 @@
       "type": "1PE",
       "capacity": "12oz ~ 360ml",
       "excerpt": "Paper Bowl 12oz với Capacity tương đương 360ml, thiết kế gọn nhẹ phù hợp đựng các sản phẩm như Ice Cream viên, Ice Cream Mochi Nhật Bản, Ice Cream cuộ...",
-      "image": "/images/products/to-giay-trang-12oz-360ml.jpg",
+      "image": "/images/products/to-giay-trang-12oz-360ml.webp",
       "specsId": "bowls/to-giay-trang-12oz-360ml",
       "featured": false,
       "tags": [
@@ -778,7 +778,7 @@
       "type": "1PE",
       "capacity": "5oz ~ 150ml",
       "excerpt": "Paper Bowl trắng 5oz được sử dụng để đựng Ice Cream, sữa chua hoặc các loại topping như trân châu, pudding, nước sốt, nước chấm…. Paper Bowl trắng 5oz...",
-      "image": "/images/products/to-giay-trang-5oz-150ml.jpg",
+      "image": "/images/products/to-giay-trang-5oz-150ml.webp",
       "specsId": "bowls/to-giay-trang-5oz-150ml",
       "featured": false,
       "tags": [
@@ -806,7 +806,7 @@
       "type": "1PE",
       "capacity": "7oz ~ 200ml",
       "excerpt": "Paper Bowl trắng 7oz 200ml được sử dụng để đựng Ice Cream, sữa chua hoặc các loại topping như trân châu, pudding, nước sốt, nước chấm…. Phù hợp với cá...",
-      "image": "/images/products/to-giay-trang-7oz-200ml.jpg",
+      "image": "/images/products/to-giay-trang-7oz-200ml.webp",
       "specsId": "bowls/to-giay-trang-7oz-200ml",
       "featured": false,
       "tags": [
@@ -834,7 +834,7 @@
       "type": "1PE",
       "capacity": "9oz ~ 270ml",
       "excerpt": "Paper Bowl 9oz với Capacity tương đương 270ml, thiết kế gọn nhẹ phù hợp đựng các sản phẩm như Ice Cream viên, Ice Cream Mochi Nhật Bản, Ice Cream cuộn...",
-      "image": "/images/products/to-giay-trang-9oz-270ml.jpg",
+      "image": "/images/products/to-giay-trang-9oz-270ml.webp",
       "specsId": "bowls/to-giay-trang-9oz-270ml",
       "featured": false,
       "tags": [
@@ -862,7 +862,7 @@
       "type": "1PE",
       "capacity": "4oz ~ 120ml",
       "excerpt": "Paper Bowl trắng 4oz Double PE được sử dụng để đựng Ice Cream, sữa chua hoặc các loại topping như trân châu, pudding, nước sốt, nước chấm…. Phù hợp vớ...",
-      "image": "/images/products/to-trang-1pe-4oz-120ml-packbn.jpg",
+      "image": "/images/products/to-trang-1pe-4oz-120ml-packbn.webp",
       "specsId": "bowls/to-trang-1pe-4oz-120ml-packbn",
       "featured": false,
       "tags": [
@@ -890,7 +890,7 @@
       "type": "Kraft",
       "capacity": "22oz",
       "excerpt": "Paper Bowl Kraft nâu 22oz với Capacity tương đương 550ml, thiết kế gọn nhẹ phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bán...",
-      "image": "/images/products/to-giay-kraft-nau-22oz-550ml-packbn.jpg",
+      "image": "/images/products/to-giay-kraft-nau-22oz-550ml-packbn.webp",
       "specsId": "bowls/to-giay-kraft-nau-22oz-550ml-packbn",
       "featured": false,
       "tags": [
@@ -921,7 +921,7 @@
       "type": "Kraft",
       "capacity": "26Oz ~ 750ml",
       "excerpt": "Paper Bowl Kraft nâu 26oz với Capacity tương đương 750ml, thiết kế phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn, ...",
-      "image": "/images/products/to-giay-kraft-nau-26oz-750ml.jpg",
+      "image": "/images/products/to-giay-kraft-nau-26oz-750ml.webp",
       "specsId": "bowls/to-giay-kraft-nau-26oz-750ml",
       "featured": false,
       "tags": [
@@ -952,7 +952,7 @@
       "type": "Kraft",
       "capacity": "32oz ~ 1000ml",
       "excerpt": "Paper Bowl Kraft nâu 32oz với Capacity tương đương 1000ml, thiết kế phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn,...",
-      "image": "/images/products/to-giay-kraft-nau-32oz-1000ml.jpg",
+      "image": "/images/products/to-giay-kraft-nau-32oz-1000ml.webp",
       "specsId": "bowls/to-giay-kraft-nau-32oz-1000ml",
       "featured": false,
       "tags": [
@@ -983,7 +983,7 @@
       "type": "Kraft",
       "capacity": "36oz ~ 1200ml",
       "excerpt": "Paper Bowl Kraft nâu 36oz với Capacity tương đương 1200ml, thiết kế phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn,...",
-      "image": "/images/products/to-giay-kraft-nau-36oz-1200ml.jpg",
+      "image": "/images/products/to-giay-kraft-nau-36oz-1200ml.webp",
       "specsId": "bowls/to-giay-kraft-nau-36oz-1200ml",
       "featured": false,
       "tags": [
@@ -1014,7 +1014,7 @@
       "type": "1PE",
       "capacity": "1000ml",
       "excerpt": "Paper Bowl trắng 1000ml (33Oz) nắp PE đựng Noodles Pho của Packbn sở hữu nhiều đặc tính ưu việt. Sản phẩm có thiết kế đơn giản và tiện lợi. Với Materi...",
-      "image": "/images/products/to-giay-trang-1000ml-33oz-nap-pe.jpg",
+      "image": "/images/products/to-giay-trang-1000ml-33oz-nap-pe.webp",
       "specsId": "bowls/to-giay-trang-1000ml-33oz-nap-pe",
       "featured": false,
       "tags": [
@@ -1042,7 +1042,7 @@
       "type": "1PE",
       "capacity": "16oz ~ 480ml",
       "excerpt": "Paper Bowl 16oz với Capacity tương đương 0ml, thiết kế gọn nhẹ phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn, Nood...",
-      "image": "/images/products/to-giay-trang-12oz-360ml-2.jpg",
+      "image": "/images/products/to-giay-trang-12oz-360ml-2.webp",
       "specsId": "bowls/to-giay-trang-12oz-360ml-2",
       "featured": false,
       "tags": [
@@ -1070,7 +1070,7 @@
       "type": "1PE",
       "capacity": "22oz ~ 550ml",
       "excerpt": "Paper Bowl 22oz với Capacity tương đương 550ml, thiết kế gọn nhẹ phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn, No...",
-      "image": "/images/products/to-giay-trang-22oz-550ml.jpg",
+      "image": "/images/products/to-giay-trang-22oz-550ml.webp",
       "specsId": "bowls/to-giay-trang-22oz-550ml",
       "featured": false,
       "tags": [
@@ -1098,7 +1098,7 @@
       "type": "1PE",
       "capacity": "24oz ~ 720ml",
       "excerpt": "Paper Bowl 24oz với Capacity tương đương 720ml, thiết kế phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn, Noodles th...",
-      "image": "/images/products/to-trang-24oz-720ml-chua-gom-nap.jpg",
+      "image": "/images/products/to-trang-24oz-720ml-chua-gom-nap.webp",
       "specsId": "bowls/to-trang-24oz-720ml-chua-gom-nap",
       "featured": false,
       "tags": [
@@ -1126,7 +1126,7 @@
       "type": "1PE",
       "capacity": "26oz ~ 750ml",
       "excerpt": "Paper Bowl 26oz với Capacity tương đương 750ml, thiết kế phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn, Noodles th...",
-      "image": "/images/products/to-trang-26oz-750ml.jpg",
+      "image": "/images/products/to-trang-26oz-750ml.webp",
       "specsId": "bowls/to-trang-26oz-750ml",
       "featured": false,
       "tags": [
@@ -1154,7 +1154,7 @@
       "type": "1PE",
       "capacity": "32oz ~ 1000ml",
       "excerpt": "Paper Bowl 32oz với Capacity tương đương 1000ml, thiết kế phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn, Noodles t...",
-      "image": "/images/products/to-trang-32oz-1000ml.jpg",
+      "image": "/images/products/to-trang-32oz-1000ml.webp",
       "specsId": "bowls/to-trang-32oz-1000ml",
       "featured": false,
       "tags": [
@@ -1182,7 +1182,7 @@
       "type": "1PE",
       "capacity": "36oz ~ 1200ml",
       "excerpt": "Paper Bowl 36oz với Capacity tương đương 1200ml, thiết kế phù hợp đựng: + Các loại thực phẩm dạng khô: cơm, Salad, xôi, bánh ướt, bánh cuốn, Noodles t...",
-      "image": "/images/products/to-trang-36oz-1200ml.jpg",
+      "image": "/images/products/to-trang-36oz-1200ml.webp",
       "specsId": "bowls/to-trang-36oz-1200ml",
       "featured": false,
       "tags": [
@@ -1210,7 +1210,7 @@
       "type": "Kraft",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com.jpg",
+      "image": "/images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com.webp",
       "specsId": "straws/ong-hut-giay-kraft-nau-phi-6-packbn-com",
       "featured": false,
       "tags": [
@@ -1239,7 +1239,7 @@
       "type": "Kraft",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-nau-ong-hut-giay-kraft-phi-6.jpg",
+      "image": "/images/products/ong-hut-giay-nau-ong-hut-giay-kraft-phi-6.webp",
       "specsId": "straws/ong-hut-giay-nau-ong-hut-giay-kraft-phi-6",
       "featured": false,
       "tags": [
@@ -1268,7 +1268,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Paper Straw Ø: 6mm hoạ tiết giáng sinh - PACKBN is a premium paper straw from PACKBN.",
-      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-giang-sinh-packbn.jpg",
+      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-giang-sinh-packbn.webp",
       "specsId": "straws/ong-hut-giay-phi-6mm-hoa-tiet-giang-sinh-packbn",
       "featured": false,
       "tags": [
@@ -1296,7 +1296,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-lap-lanh-packbn.jpg",
+      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-lap-lanh-packbn.webp",
       "specsId": "straws/ong-hut-giay-phi-6mm-hoa-tiet-lap-lanh-packbn",
       "featured": false,
       "tags": [
@@ -1324,7 +1324,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Kich thước: Dài 200mm – Diameter 6 (mm) Material: 3 lớp giấy thực phẩm PE Bền, chịu được nhiệt độ nóng cao và lạnh Xuất xứ: Việt Nam Hạn sử dụng: 48 t...",
-      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau.jpg",
+      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau.webp",
       "specsId": "straws/ong-hut-giay-phi-6mm-hoa-tiet-nhieu-mau",
       "featured": false,
       "tags": [
@@ -1352,7 +1352,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Paper Straw Ø: 6mm hoạ tiết sao Small – PACKBN is a premium paper straw from PACKBN.",
-      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-sao-nho-packbn.jpg",
+      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-sao-nho-packbn.webp",
       "specsId": "straws/ong-hut-giay-phi-6mm-hoa-tiet-sao-nho-packbn",
       "featured": false,
       "tags": [
@@ -1380,7 +1380,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Dimensions: Dài 200mm – Diameter 6 (mm) Material: 3 lớp giấy thực phẩm PE Bền, chịu được nhiệt độ nóng cao và lạnh Xuất xứ: Việt Nam Hạn sử dụng: 48 t...",
-      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn.jpg",
+      "image": "/images/products/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn.webp",
       "specsId": "straws/ong-hut-giay-phi-6mm-hoa-tiet-tre-xanh-packbn",
       "featured": false,
       "tags": [
@@ -1408,7 +1408,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn.jpg",
+      "image": "/images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn.webp",
       "specsId": "straws/ong-hut-giay-phi-6mm-trang-boc-mang-packbn",
       "featured": false,
       "tags": [
@@ -1436,7 +1436,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-trang-phi-6-packbn-com.jpg",
+      "image": "/images/products/ong-hut-giay-trang-phi-6-packbn-com.webp",
       "specsId": "straws/ong-hut-giay-trang-phi-6-packbn-com",
       "featured": false,
       "tags": [
@@ -1464,7 +1464,7 @@
       "type": "Kraft",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn.jpg",
+      "image": "/images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn.webp",
       "specsId": "straws/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn",
       "featured": false,
       "tags": [
@@ -1493,7 +1493,7 @@
       "type": "Kraft",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-kraft-phi-8.jpg",
+      "image": "/images/products/ong-hut-giay-kraft-phi-8.webp",
       "specsId": "straws/ong-hut-giay-kraft-phi-8",
       "featured": false,
       "tags": [
@@ -1522,7 +1522,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-trang-phi-8-packbn-com.jpg",
+      "image": "/images/products/ong-hut-giay-trang-phi-8-packbn-com.webp",
       "specsId": "straws/ong-hut-giay-trang-phi-8-packbn-com",
       "featured": false,
       "tags": [
@@ -1550,7 +1550,7 @@
       "type": "Kraft",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-kraft-nau-phi-12-boc-mang.jpg",
+      "image": "/images/products/ong-hut-giay-kraft-nau-phi-12-boc-mang.webp",
       "specsId": "straws/ong-hut-giay-kraft-nau-phi-12-boc-mang",
       "featured": false,
       "tags": [
@@ -1579,7 +1579,7 @@
       "type": "Kraft",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-nau-ong-hut-giay-kraft-phi-12.jpg",
+      "image": "/images/products/ong-hut-giay-nau-ong-hut-giay-kraft-phi-12.webp",
       "specsId": "straws/ong-hut-giay-nau-ong-hut-giay-kraft-phi-12",
       "featured": false,
       "tags": [
@@ -1608,7 +1608,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-phi-12mm-trang-boc-mang-packbn.jpg",
+      "image": "/images/products/ong-hut-giay-phi-12mm-trang-boc-mang-packbn.webp",
       "specsId": "straws/ong-hut-giay-phi-12mm-trang-boc-mang-packbn",
       "featured": false,
       "tags": [
@@ -1636,7 +1636,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Việc sử dụng Paper Straw là một cách hiệu quả và thân thiện với môi trường để giảm thiểu tác động tiêu cực của rác thải nhựa và tạo ra một môi trường ...",
-      "image": "/images/products/ong-hut-giay-trang-phi-12-packbn-com.jpg",
+      "image": "/images/products/ong-hut-giay-trang-phi-12-packbn-com.webp",
       "specsId": "straws/ong-hut-giay-trang-phi-12-packbn-com",
       "featured": false,
       "tags": [
@@ -1664,7 +1664,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Paper Plate tròn D130mm Đặc điểm nổi bật:",
-      "image": "/images/products/dia-giay-tron-d130mm-packbn.jpg",
+      "image": "/images/products/dia-giay-tron-d130mm-packbn.webp",
       "specsId": "containers/dia-giay-tron-d130mm-packbn",
       "featured": false,
       "tags": [
@@ -1690,7 +1690,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Paper Plate tròn Đặc điểm nổi bật:",
-      "image": "/images/products/dia-giay-tron-d150mm.jpg",
+      "image": "/images/products/dia-giay-tron-d150mm.webp",
       "specsId": "containers/dia-giay-tron-d150mm",
       "featured": false,
       "tags": [
@@ -1717,7 +1717,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Paper Plate tròn 18mm Đặc điểm nổi bật:",
-      "image": "/images/products/dia-giay-tron-d180mm-packbn.jpg",
+      "image": "/images/products/dia-giay-tron-d180mm-packbn.webp",
       "specsId": "containers/dia-giay-tron-d180mm-packbn",
       "featured": false,
       "tags": [
@@ -1744,7 +1744,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Paper Plate tròn Material: Chủng loại: mm Đặc điểm nổi bật:",
-      "image": "/images/products/dia-giay-tron-d200mm-packbn.jpg",
+      "image": "/images/products/dia-giay-tron-d200mm-packbn.webp",
       "specsId": "containers/dia-giay-tron-d200mm-packbn",
       "featured": false,
       "tags": [
@@ -1771,7 +1771,7 @@
       "type": "Kraft",
       "capacity": "",
       "excerpt": "Thông tin Details: khay Kraft Paper 220x15x48mm Đặc điểm nổi bật: Lựa chọn khay Kraft Paper 220x15x48mm sẽ giúp đưa thực phẩm của bạn đến với khách hà...",
-      "image": "/images/products/khay-giay-kraft-220x15x48mm.jpg",
+      "image": "/images/products/khay-giay-kraft-220x15x48mm.webp",
       "specsId": "cups/khay-giay-kraft-220x15x48mm",
       "featured": false,
       "tags": [
@@ -1800,7 +1800,7 @@
       "type": "Kraft",
       "capacity": "",
       "excerpt": "Thông tin Details: khay Kraft Paper 255x178x50mm Đặc điểm nổi bật: Lựa chọn khay Kraft Paper 255x178x50mm sẽ giúp đưa thực phẩm của bạn đến với khách ...",
-      "image": "/images/products/khay-giay-kraft-255x178x50mm.jpg",
+      "image": "/images/products/khay-giay-kraft-255x178x50mm.webp",
       "specsId": "cups/khay-giay-kraft-255x178x50mm",
       "featured": false,
       "tags": [
@@ -1829,7 +1829,7 @@
       "type": "Kraft",
       "capacity": "350ml",
       "excerpt": "Thông tin Details: khay Kraft Paper 350ml Đặc điểm nổi bật: Lựa chọn khay Kraft Paper 350ml sẽ giúp đưa thực phẩm của bạn đến với khách hàng một cách ...",
-      "image": "/images/products/khay-giay-kraft-350ml.jpg",
+      "image": "/images/products/khay-giay-kraft-350ml.webp",
       "specsId": "cups/khay-giay-kraft-350ml",
       "featured": false,
       "tags": [
@@ -1859,7 +1859,7 @@
       "type": "Kraft",
       "capacity": "600ml",
       "excerpt": "Thông tin Details: khay Kraft Paper 600ml Đặc điểm nổi bật: Lựa chọn khay Kraft Paper 600ml sẽ giúp đưa thực phẩm của bạn đến với khách hàng một cách ...",
-      "image": "/images/products/khay-giay-kraft-600ml.jpg",
+      "image": "/images/products/khay-giay-kraft-600ml.webp",
       "specsId": "cups/khay-giay-kraft-600ml",
       "featured": false,
       "tags": [
@@ -1889,7 +1889,7 @@
       "type": "Kraft",
       "capacity": "1000ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp chéo 1000ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp chéo 1000ml sẽ giúp đưa thực phẩm của bạn đến v...",
-      "image": "/images/products/hop-giay-kraft-nap-cheo-1000ml.jpg",
+      "image": "/images/products/hop-giay-kraft-nap-cheo-1000ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cheo-1000ml",
       "featured": false,
       "tags": [
@@ -1918,7 +1918,7 @@
       "type": "Kraft",
       "capacity": "1200ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp chéo 1200ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp chéo 1200ml sẽ giúp đưa thực phẩm của bạn đến v...",
-      "image": "/images/products/hop-giay-kraft-nap-cheo-1200ml.jpg",
+      "image": "/images/products/hop-giay-kraft-nap-cheo-1200ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cheo-1200ml",
       "featured": false,
       "tags": [
@@ -1947,7 +1947,7 @@
       "type": "Kraft",
       "capacity": "1500ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp chéo 1500ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp chéo 1500ml sẽ giúp đưa thực phẩm của bạn đến v...",
-      "image": "/images/products/hop-giay-kraft-nap-cheo-1500ml.jpg",
+      "image": "/images/products/hop-giay-kraft-nap-cheo-1500ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cheo-1500ml",
       "featured": false,
       "tags": [
@@ -1976,7 +1976,7 @@
       "type": "Kraft",
       "capacity": "1800ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp chéo 1800ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp chéo 1800ml sẽ giúp đưa thực phẩm của bạn đến v...",
-      "image": "/images/products/hop-giay-kraft-nap-cheo-1800ml.jpg",
+      "image": "/images/products/hop-giay-kraft-nap-cheo-1800ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cheo-1800ml",
       "featured": false,
       "tags": [
@@ -2005,7 +2005,7 @@
       "type": "Kraft",
       "capacity": "750ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp chéo 750ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp chéo 750ml sẽ giúp đưa thực phẩm của bạn đến với...",
-      "image": "/images/products/hop-giay-kraft-nap-cheo-750ml.jpg",
+      "image": "/images/products/hop-giay-kraft-nap-cheo-750ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cheo-750ml",
       "featured": false,
       "tags": [
@@ -2034,7 +2034,7 @@
       "type": "Kraft",
       "capacity": "1000ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp cửa sổ 1000ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp cửa sổ 1000ml sẽ giúp đưa thực phẩm của bạn đ...",
-      "image": "/images/products/hop-giay-kraft-nap-cua-so-1000ml.jpg",
+      "image": "/images/products/hop-giay-kraft-nap-cua-so-1000ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cua-so-1000ml",
       "featured": false,
       "tags": [
@@ -2092,7 +2092,7 @@
       "type": "Kraft",
       "capacity": "1500ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp cửa sổ 1500ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp cửa sổ 1500ml sẽ giúp đưa thực phẩm của bạn đ...",
-      "image": "/images/products/hop-giay-kraft-nap-cua-so-1500ml.png",
+      "image": "/images/products/hop-giay-kraft-nap-cua-so-1500ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cua-so-1500ml",
       "featured": false,
       "tags": [
@@ -2121,7 +2121,7 @@
       "type": "Kraft",
       "capacity": "1800ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp cửa sổ 1800ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp cửa sổ 1800ml sẽ giúp đưa thực phẩm của bạn đ...",
-      "image": "/images/products/hop-giay-kraft-nap-cua-so-1800ml.jpg",
+      "image": "/images/products/hop-giay-kraft-nap-cua-so-1800ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cua-so-1800ml",
       "featured": false,
       "tags": [
@@ -2150,7 +2150,7 @@
       "type": "Kraft",
       "capacity": "750ml",
       "excerpt": "Thông tin Details: Paper Box Kraft nắp cửa sổ 750ml Đặc điểm của sản phẩm: Lựa chọn Paper Box kraft nắp cửa sổ 750ml sẽ giúp đưa thực phẩm của bạn đến...",
-      "image": "/images/products/hop-giay-kraft-nap-cua-so-750ml.jpg",
+      "image": "/images/products/hop-giay-kraft-nap-cua-so-750ml.webp",
       "specsId": "containers/hop-giay-kraft-nap-cua-so-750ml",
       "featured": false,
       "tags": [
@@ -2324,7 +2324,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Wooden Knife dùng 1 lần Đặc điểm nổi bật: Lựa chọn Wooden Knife dùng 1 lần sẽ giúp đưa thực phẩm của bạn đến với khách hàng một các...",
-      "image": "/images/products/dao-go-dung-1-lan.jpg",
+      "image": "/images/products/dao-go-dung-1-lan.webp",
       "specsId": "wooden/dao-go-dung-1-lan",
       "featured": false,
       "tags": [
@@ -2350,7 +2350,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Wooden Fork 16cm Đặc điểm nổi bật: Lựa chọn Wooden Fork 16cm sẽ giúp đưa thực phẩm của bạn đến với khách hàng một cách đẹp mắt, san...",
-      "image": "/images/products/nia-go-16cm.jpg",
+      "image": "/images/products/nia-go-16cm.webp",
       "specsId": "wooden/nia-go-16cm",
       "featured": false,
       "tags": [
@@ -2377,7 +2377,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Cup Carrier LY LÁ CÂY DÀNH CHO LY GIẤY, LY NHỰA is a premium accessory from PACKBN.",
-      "image": "/images/products/quai-xach-ly-la-cay.jpg",
+      "image": "/images/products/quai-xach-ly-la-cay.webp",
       "specsId": "accessories/quai-xach-ly-la-cay",
       "featured": false,
       "tags": [
@@ -2400,7 +2400,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Product Description: Cup Carrier ly lá cây Large Material: Lá Buông Natural an toàn Loại size V: Phù hợp cho ly từ 300ml-700ml Đóng gói: 500 pcs/carto...",
-      "image": "/images/products/quai-xach-ly-la-cay-lon-danh-cho-ly-giay.jpg",
+      "image": "/images/products/quai-xach-ly-la-cay-lon-danh-cho-ly-giay.webp",
       "specsId": "accessories/quai-xach-ly-la-cay-lon-danh-cho-ly-giay",
       "featured": false,
       "tags": [
@@ -2425,7 +2425,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Product Description: Cup Carrier ly lá cây Small Material: Lá Buông Natural an toàn Loại size S: Phù hợp cho ly dưới 300ml Đóng gói: 500 pcs/carton De...",
-      "image": "/images/products/quai-xach-ly-la-cay-nho-danh-cho-ly-giay-ly-nhua.jpg",
+      "image": "/images/products/quai-xach-ly-la-cay-nho-danh-cho-ly-giay-ly-nhua.webp",
       "specsId": "accessories/quai-xach-ly-la-cay-nho-danh-cho-ly-giay-ly-nhua",
       "featured": false,
       "tags": [
@@ -2478,7 +2478,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Stirring stick Coffee Đặc điểm nổi bật: Lựa chọn Stirring stick Coffee sẽ giúp đưa thực phẩm của bạn đến với khách hàng một cách đẹ...",
-      "image": "/images/products/que-khuay-ca-phe-packbn-com.jpg",
+      "image": "/images/products/que-khuay-ca-phe-packbn-com.webp",
       "specsId": "wooden/que-khuay-ca-phe-packbn-com",
       "featured": false,
       "tags": [
@@ -2505,7 +2505,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Thìa (Muỗng) gỗ 16cm Đặc điểm nổi bật: Lựa chọn Thìa (Muỗng) gỗ 16cm sẽ giúp đưa thực phẩm của bạn đến với khách hàng một cách đẹp ...",
-      "image": "/images/products/thia-muong-go-16cm.jpg",
+      "image": "/images/products/thia-muong-go-16cm.webp",
       "specsId": "wooden/thia-muong-go-16cm",
       "featured": false,
       "tags": [
@@ -2532,7 +2532,7 @@
       "type": "1PE",
       "capacity": "",
       "excerpt": "Thông tin Details: Thìa (Muỗng) gỗ tròn 10.5cm Đặc điểm nổi bật: Lựa chọn Thìa (Muỗng) gỗ tròn 10,5cm sẽ giúp đưa thực phẩm của bạn đến với khách hàng...",
-      "image": "/images/products/thia-muong-go-tron-10-5cm.jpg",
+      "image": "/images/products/thia-muong-go-tron-10-5cm.webp",
       "specsId": "wooden/thia-muong-go-tron-10-5cm",
       "featured": false,
       "tags": [

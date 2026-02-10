@@ -10,12 +10,12 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn.jpg
-  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-1.jpg
-  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-2.jpg
-  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-3.jpg
-  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-4.jpg
-  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-5.jpg
+  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn.webp
+  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-1.webp
+  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-2.webp
+  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-3.webp
+  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-4.webp
+  - /images/products/to-giay-kraft-nau-22oz-550ml-packbn-5.webp
 applications:
   - Kem
   - Sữa chua

@@ -10,13 +10,13 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-kraft-nau-36oz-1200ml.jpg
-  - /images/products/to-giay-kraft-nau-36oz-1200ml-1.jpg
-  - /images/products/to-giay-kraft-nau-36oz-1200ml-2.jpg
-  - /images/products/to-giay-kraft-nau-36oz-1200ml-3.jpg
-  - /images/products/to-giay-kraft-nau-36oz-1200ml-4.jpg
-  - /images/products/to-giay-kraft-nau-36oz-1200ml-5.jpg
-  - /images/products/to-giay-kraft-nau-36oz-1200ml-6.jpg
+  - /images/products/to-giay-kraft-nau-36oz-1200ml.webp
+  - /images/products/to-giay-kraft-nau-36oz-1200ml-1.webp
+  - /images/products/to-giay-kraft-nau-36oz-1200ml-2.webp
+  - /images/products/to-giay-kraft-nau-36oz-1200ml-3.webp
+  - /images/products/to-giay-kraft-nau-36oz-1200ml-4.webp
+  - /images/products/to-giay-kraft-nau-36oz-1200ml-5.webp
+  - /images/products/to-giay-kraft-nau-36oz-1200ml-6.webp
 applications:
   - Single Hot Pot
   - Family Salad

@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/hop-giay-kraft-nap-cheo-1800ml.jpg
-  - /images/products/hop-giay-kraft-nap-cheo-1800ml-1.jpg
-  - /images/products/hop-giay-kraft-nap-cheo-1800ml-2.jpg
-  - /images/products/hop-giay-kraft-nap-cheo-1800ml-3.jpg
-  - /images/products/hop-giay-kraft-nap-cheo-1800ml-4.jpg
+  - /images/products/hop-giay-kraft-nap-cheo-1800ml.webp
+  - /images/products/hop-giay-kraft-nap-cheo-1800ml-1.webp
+  - /images/products/hop-giay-kraft-nap-cheo-1800ml-2.webp
+  - /images/products/hop-giay-kraft-nap-cheo-1800ml-3.webp
+  - /images/products/hop-giay-kraft-nap-cheo-1800ml-4.webp
 applications:
   - Rice Boxes
   - Fast Food

@@ -6,7 +6,7 @@ customPrint: false
 moqPrint: 5000
 badge: "New"
 certifications: ["FDA", "LFGB", "BPA-Free"]
-gallery: ["/images/products/quai-xach-ly-la-cay.jpg", "/images/products/quai-xach-ly-la-cay-1.jpg", "/images/products/quai-xach-ly-la-cay-2.jpg", "/images/products/quai-xach-ly-la-cay-3.jpg", "/images/products/quai-xach-ly-la-cay-4.jpg", "/images/products/quai-xach-ly-la-cay-5.jpg", "/images/products/quai-xach-ly-la-cay-6.jpg", "/images/products/quai-xach-ly-la-cay-7.jpg"]
+gallery: ["/images/products/quai-xach-ly-la-cay.webp", "/images/products/quai-xach-ly-la-cay-1.webp", "/images/products/quai-xach-ly-la-cay-2.webp", "/images/products/quai-xach-ly-la-cay-3.webp", "/images/products/quai-xach-ly-la-cay-4.webp", "/images/products/quai-xach-ly-la-cay-5.webp", "/images/products/quai-xach-ly-la-cay-6.webp", "/images/products/quai-xach-ly-la-cay-7.webp"]
 applications: ["Espresso", "Black Coffee", "Tasting Samples", "Small Ice Cream"]
 specifications:
   - label: "Capacity"

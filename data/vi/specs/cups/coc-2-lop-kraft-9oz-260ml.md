@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-2-lop-kraft-9oz-260ml.jpg
-  - /images/products/coc-2-lop-kraft-9oz-260ml-1.jpg
-  - /images/products/coc-2-lop-kraft-9oz-260ml-2.jpg
-  - /images/products/coc-2-lop-kraft-9oz-260ml-3.jpg
-  - /images/products/coc-2-lop-kraft-9oz-260ml-4.jpg
+  - /images/products/coc-2-lop-kraft-9oz-260ml.webp
+  - /images/products/coc-2-lop-kraft-9oz-260ml-1.webp
+  - /images/products/coc-2-lop-kraft-9oz-260ml-2.webp
+  - /images/products/coc-2-lop-kraft-9oz-260ml-3.webp
+  - /images/products/coc-2-lop-kraft-9oz-260ml-4.webp
 applications:
   - Cà phê nóng
   - Trà nóng

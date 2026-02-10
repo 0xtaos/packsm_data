@@ -1,7 +1,7 @@
 ---
 name: "Phụ Kiện"
 description: "Quai xách ly lá cây và các phụ kiện đi kèm thân thiện môi trường"
-image: "/images/product-accessories.jpg"
+image: "/images/product-accessories.webp"
 features:
   - "Thủ công truyền thống"
   - "100% tự nhiên"

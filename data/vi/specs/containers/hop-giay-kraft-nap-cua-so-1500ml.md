@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/hop-giay-kraft-nap-cua-so-1500ml.png
+  - /images/products/hop-giay-kraft-nap-cua-so-1500ml.webp
   - /images/products/hop-giay-kraft-nap-cua-so-1500ml-1.webp
-  - /images/products/hop-giay-kraft-nap-cua-so-1500ml-2.jpg
-  - /images/products/hop-giay-kraft-nap-cua-so-1500ml-3.jpg
+  - /images/products/hop-giay-kraft-nap-cua-so-1500ml-2.webp
+  - /images/products/hop-giay-kraft-nap-cua-so-1500ml-3.webp
 applications:
   - Cơm hộp
   - Thức ăn nhanh

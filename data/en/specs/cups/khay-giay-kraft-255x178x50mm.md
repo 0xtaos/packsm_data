@@ -10,9 +10,9 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/khay-giay-kraft-255x178x50mm.jpg
-  - /images/products/khay-giay-kraft-255x178x50mm-1.jpg
-  - /images/products/khay-giay-kraft-255x178x50mm-2.jpg
+  - /images/products/khay-giay-kraft-255x178x50mm.webp
+  - /images/products/khay-giay-kraft-255x178x50mm-1.webp
+  - /images/products/khay-giay-kraft-255x178x50mm-2.webp
 applications:
   - Espresso
   - Black Coffee

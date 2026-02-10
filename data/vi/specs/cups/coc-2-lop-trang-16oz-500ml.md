@@ -10,13 +10,13 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-2-lop-trang-16oz-500ml.jpg
-  - /images/products/coc-2-lop-trang-16oz-500ml-1.jpg
-  - /images/products/coc-2-lop-trang-16oz-500ml-2.jpg
-  - /images/products/coc-2-lop-trang-16oz-500ml-3.jpg
-  - /images/products/coc-2-lop-trang-16oz-500ml-4.jpg
-  - /images/products/coc-2-lop-trang-16oz-500ml-5.jpg
-  - /images/products/coc-2-lop-trang-16oz-500ml-6.jpg
+  - /images/products/coc-2-lop-trang-16oz-500ml.webp
+  - /images/products/coc-2-lop-trang-16oz-500ml-1.webp
+  - /images/products/coc-2-lop-trang-16oz-500ml-2.webp
+  - /images/products/coc-2-lop-trang-16oz-500ml-3.webp
+  - /images/products/coc-2-lop-trang-16oz-500ml-4.webp
+  - /images/products/coc-2-lop-trang-16oz-500ml-5.webp
+  - /images/products/coc-2-lop-trang-16oz-500ml-6.webp
 applications:
   - Trà sữa size M
   - Sinh tố

@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-trang-22oz-550ml.jpg
-  - /images/products/to-giay-trang-22oz-550ml-1.jpg
-  - /images/products/to-giay-trang-22oz-550ml-2.jpg
-  - /images/products/to-giay-trang-22oz-550ml-3.jpg
-  - /images/products/to-giay-trang-22oz-550ml-4.jpg
+  - /images/products/to-giay-trang-22oz-550ml.webp
+  - /images/products/to-giay-trang-22oz-550ml-1.webp
+  - /images/products/to-giay-trang-22oz-550ml-2.webp
+  - /images/products/to-giay-trang-22oz-550ml-3.webp
+  - /images/products/to-giay-trang-22oz-550ml-4.webp
 applications:
   - Special Pho
   - Individual Hot Pot

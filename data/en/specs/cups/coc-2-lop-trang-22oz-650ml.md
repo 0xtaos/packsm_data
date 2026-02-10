@@ -10,14 +10,14 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-2-lop-trang-22oz-650ml.jpg
-  - /images/products/coc-2-lop-trang-22oz-650ml-1.jpg
-  - /images/products/coc-2-lop-trang-22oz-650ml-2.jpg
-  - /images/products/coc-2-lop-trang-22oz-650ml-3.jpg
-  - /images/products/coc-2-lop-trang-22oz-650ml-4.jpg
-  - /images/products/coc-2-lop-trang-22oz-650ml-5.jpg
-  - /images/products/coc-2-lop-trang-22oz-650ml-6.jpg
-  - /images/products/coc-2-lop-trang-22oz-650ml-7.jpg
+  - /images/products/coc-2-lop-trang-22oz-650ml.webp
+  - /images/products/coc-2-lop-trang-22oz-650ml-1.webp
+  - /images/products/coc-2-lop-trang-22oz-650ml-2.webp
+  - /images/products/coc-2-lop-trang-22oz-650ml-3.webp
+  - /images/products/coc-2-lop-trang-22oz-650ml-4.webp
+  - /images/products/coc-2-lop-trang-22oz-650ml-5.webp
+  - /images/products/coc-2-lop-trang-22oz-650ml-6.webp
+  - /images/products/coc-2-lop-trang-22oz-650ml-7.webp
 applications:
   - Bubble Tea L
   - Family Smoothies

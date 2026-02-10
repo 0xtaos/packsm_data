@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com.jpg
-  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com-1.jpg
-  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com-2.jpg
-  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com-3.jpg
-  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com-4.jpg
+  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com.webp
+  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com-1.webp
+  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com-2.webp
+  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com-3.webp
+  - /images/products/ong-hut-giay-kraft-nau-phi-6-packbn-com-4.webp
 applications:
   - Coffee
   - Tea

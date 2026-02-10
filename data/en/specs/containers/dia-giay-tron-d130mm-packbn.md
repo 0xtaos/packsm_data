@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/dia-giay-tron-d130mm-packbn.jpg
-  - /images/products/dia-giay-tron-d130mm-packbn-1.jpg
-  - /images/products/dia-giay-tron-d130mm-packbn-2.jpg
-  - /images/products/dia-giay-tron-d130mm-packbn-3.jpg
+  - /images/products/dia-giay-tron-d130mm-packbn.webp
+  - /images/products/dia-giay-tron-d130mm-packbn-1.webp
+  - /images/products/dia-giay-tron-d130mm-packbn-2.webp
+  - /images/products/dia-giay-tron-d130mm-packbn-3.webp
 applications:
   - Rice Boxes
   - Fast Food

@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac.jpg
-  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac-1.jpg
-  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac-2.jpg
-  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac-3.jpg
-  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac-4.jpg
+  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac.webp
+  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac-1.webp
+  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac-2.webp
+  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac-3.webp
+  - /images/products/to-giay-in-nhieu-hoa-tiet-da-dang-mau-sac-4.webp
 applications:
   - Ice Cream
   - Yogurt

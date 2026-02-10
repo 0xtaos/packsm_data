@@ -10,14 +10,14 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/quai-xach-ly-la-cay.jpg
-  - /images/products/quai-xach-ly-la-cay-1.jpg
-  - /images/products/quai-xach-ly-la-cay-2.jpg
-  - /images/products/quai-xach-ly-la-cay-3.jpg
-  - /images/products/quai-xach-ly-la-cay-4.jpg
-  - /images/products/quai-xach-ly-la-cay-5.jpg
-  - /images/products/quai-xach-ly-la-cay-6.jpg
-  - /images/products/quai-xach-ly-la-cay-7.jpg
+  - /images/products/quai-xach-ly-la-cay.webp
+  - /images/products/quai-xach-ly-la-cay-1.webp
+  - /images/products/quai-xach-ly-la-cay-2.webp
+  - /images/products/quai-xach-ly-la-cay-3.webp
+  - /images/products/quai-xach-ly-la-cay-4.webp
+  - /images/products/quai-xach-ly-la-cay-5.webp
+  - /images/products/quai-xach-ly-la-cay-6.webp
+  - /images/products/quai-xach-ly-la-cay-7.webp
 applications:
   - Take-away Cup Carrier
   - Events

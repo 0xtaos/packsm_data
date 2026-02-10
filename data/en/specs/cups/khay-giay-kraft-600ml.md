@@ -10,9 +10,9 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/khay-giay-kraft-600ml.jpg
-  - /images/products/khay-giay-kraft-600ml-1.jpg
-  - /images/products/khay-giay-kraft-600ml-2.jpg
+  - /images/products/khay-giay-kraft-600ml.webp
+  - /images/products/khay-giay-kraft-600ml-1.webp
+  - /images/products/khay-giay-kraft-600ml-2.webp
 applications:
   - Espresso
   - Black Coffee

@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-16oz-500ml-co-hoa-tiet.jpg
-  - /images/products/coc-16oz-500ml-co-hoa-tiet-1.jpg
-  - /images/products/coc-16oz-500ml-co-hoa-tiet-2.jpg
-  - /images/products/coc-16oz-500ml-co-hoa-tiet-3.jpg
+  - /images/products/coc-16oz-500ml-co-hoa-tiet.webp
+  - /images/products/coc-16oz-500ml-co-hoa-tiet-1.webp
+  - /images/products/coc-16oz-500ml-co-hoa-tiet-2.webp
+  - /images/products/coc-16oz-500ml-co-hoa-tiet-3.webp
 applications:
   - Trà sữa size M
   - Sinh tố

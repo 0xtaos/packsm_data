@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/dao-go-dung-1-lan.jpg
-  - /images/products/dao-go-dung-1-lan-1.jpg
-  - /images/products/dao-go-dung-1-lan-2.jpg
-  - /images/products/dao-go-dung-1-lan-3.jpg
+  - /images/products/dao-go-dung-1-lan.webp
+  - /images/products/dao-go-dung-1-lan-1.webp
+  - /images/products/dao-go-dung-1-lan-2.webp
+  - /images/products/dao-go-dung-1-lan-3.webp
 applications:
   - Restaurants
   - Hotels

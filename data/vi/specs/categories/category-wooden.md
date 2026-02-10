@@ -1,7 +1,7 @@
 ---
 name: "Sản Phẩm Gỗ"
 description: "Dao, thìa, nĩa gỗ tự nhiên - giải pháp thay thế nhựa dùng một lần"
-image: "/images/product-wooden.jpg"
+image: "/images/product-wooden.webp"
 features:
   - "100% tự nhiên"
   - "Phân hủy hoàn toàn"

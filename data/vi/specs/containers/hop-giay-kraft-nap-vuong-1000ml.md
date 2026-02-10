@@ -11,9 +11,9 @@ certifications:
   - BPA-Free
 gallery:
   - /images/products/hop-giay-kraft-nap-vuong-1000ml.webp
-  - /images/products/hop-giay-kraft-nap-vuong-1000ml-1.jpg
+  - /images/products/hop-giay-kraft-nap-vuong-1000ml-1.webp
   - /images/products/hop-giay-kraft-nap-vuong-1000ml-2.webp
-  - /images/products/hop-giay-kraft-nap-vuong-1000ml-3.jpg
+  - /images/products/hop-giay-kraft-nap-vuong-1000ml-3.webp
 applications:
   - Cơm hộp
   - Thức ăn nhanh

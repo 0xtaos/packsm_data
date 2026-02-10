@@ -1,7 +1,7 @@
 ---
 name: "Hộp Đựng Thực Phẩm"
 description: "Hộp giấy Kraft, đĩa và khay giấy đựng thức ăn nóng lạnh"
-image: "/images/product-box.jpg"
+image: "/images/product-box.webp"
 features:
   - "Nắp chắc chắn"
   - "Chống rò rỉ"

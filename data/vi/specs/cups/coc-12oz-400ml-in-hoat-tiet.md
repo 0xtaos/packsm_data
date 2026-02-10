@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-12oz-400ml-in-hoat-tiet.jpg
-  - /images/products/coc-12oz-400ml-in-hoat-tiet-1.jpg
-  - /images/products/coc-12oz-400ml-in-hoat-tiet-2.jpg
-  - /images/products/coc-12oz-400ml-in-hoat-tiet-3.jpg
+  - /images/products/coc-12oz-400ml-in-hoat-tiet.webp
+  - /images/products/coc-12oz-400ml-in-hoat-tiet-1.webp
+  - /images/products/coc-12oz-400ml-in-hoat-tiet-2.webp
+  - /images/products/coc-12oz-400ml-in-hoat-tiet-3.webp
 applications:
   - Cà phê
   - Trà sữa

@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn.jpg
-  - /images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn-1.jpg
-  - /images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn-2.jpg
-  - /images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn-3.jpg
+  - /images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn.webp
+  - /images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn-1.webp
+  - /images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn-2.webp
+  - /images/products/ong-hut-giay-phi-6mm-trang-boc-mang-packbn-3.webp
 applications:
   - Coffee
   - Tea

@@ -1,7 +1,7 @@
 ---
 name: "Ống Hút Giấy"
 description: "Ống hút giấy phi 6mm, 8mm, 12mm thay thế hoàn hảo cho ống hút nhựa"
-image: "/images/product-straws.jpg"
+image: "/images/product-straws.webp"
 features:
   - "Phân hủy sinh học 100%"
   - "Nhiều màu sắc"

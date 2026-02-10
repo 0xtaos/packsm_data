@@ -1,7 +1,7 @@
 ---
 name: "Ly & Cốc Giấy"
 description: "Cốc giấy đa dạng kích thước từ 3oz đến 22oz, phù hợp cho cà phê, trà sữa và các loại thức uống"
-image: "/images/product-cup.jpg"
+image: "/images/product-cup.webp"
 features:
   - "Chống thấm tuyệt đối"
   - "Cách nhiệt tốt"

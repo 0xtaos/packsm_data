@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-trang-36oz-1200ml.jpg
-  - /images/products/to-trang-36oz-1200ml-1.jpg
-  - /images/products/to-trang-36oz-1200ml-2.jpg
-  - /images/products/to-trang-36oz-1200ml-3.jpg
-  - /images/products/to-trang-36oz-1200ml-4.jpg
+  - /images/products/to-trang-36oz-1200ml.webp
+  - /images/products/to-trang-36oz-1200ml-1.webp
+  - /images/products/to-trang-36oz-1200ml-2.webp
+  - /images/products/to-trang-36oz-1200ml-3.webp
+  - /images/products/to-trang-36oz-1200ml-4.webp
 applications:
   - Single Hot Pot
   - Family Salad

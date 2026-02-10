@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/thia-muong-go-tron-10-5cm.jpg
-  - /images/products/thia-muong-go-tron-10-5cm-1.png
-  - /images/products/thia-muong-go-tron-10-5cm-2.jpg
-  - /images/products/thia-muong-go-tron-10-5cm-3.png
+  - /images/products/thia-muong-go-tron-10-5cm.webp
+  - /images/products/thia-muong-go-tron-10-5cm-1.webp
+  - /images/products/thia-muong-go-tron-10-5cm-2.webp
+  - /images/products/thia-muong-go-tron-10-5cm-3.webp
 applications:
   - Nhà hàng
   - Khách sạn

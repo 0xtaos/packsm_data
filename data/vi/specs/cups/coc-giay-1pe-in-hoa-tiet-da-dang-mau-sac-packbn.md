@@ -10,12 +10,12 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn.jpg
-  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-1.jpg
-  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-2.jpg
-  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-3.jpg
-  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-4.jpg
-  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-5.jpg
+  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn.webp
+  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-1.webp
+  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-2.webp
+  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-3.webp
+  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-4.webp
+  - /images/products/coc-giay-1pe-in-hoa-tiet-da-dang-mau-sac-packbn-5.webp
 applications:
   - Espresso
   - Cà phê đen

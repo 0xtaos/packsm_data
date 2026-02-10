@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-2-lop-kraft-16oz-500ml.jpg
-  - /images/products/coc-2-lop-kraft-16oz-500ml-1.jpg
-  - /images/products/coc-2-lop-kraft-16oz-500ml-2.jpg
-  - /images/products/coc-2-lop-kraft-16oz-500ml-3.jpg
-  - /images/products/banve/coc-2-lop-kraft-16oz-500ml.png
+  - /images/products/coc-2-lop-kraft-16oz-500ml.webp
+  - /images/products/coc-2-lop-kraft-16oz-500ml-1.webp
+  - /images/products/coc-2-lop-kraft-16oz-500ml-2.webp
+  - /images/products/coc-2-lop-kraft-16oz-500ml-3.webp
+  - /images/products/banve/coc-2-lop-kraft-16oz-500ml.webp
 applications:
   - Trà sữa size M
   - Sinh tố

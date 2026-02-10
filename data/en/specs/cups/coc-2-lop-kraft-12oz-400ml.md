@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/coc-2-lop-kraft-12oz-400ml.jpg
-  - /images/products/coc-2-lop-kraft-12oz-400ml-1.jpg
-  - /images/products/coc-2-lop-kraft-12oz-400ml-2.jpg
-  - /images/products/coc-2-lop-kraft-12oz-400ml-3.jpg
+  - /images/products/coc-2-lop-kraft-12oz-400ml.webp
+  - /images/products/coc-2-lop-kraft-12oz-400ml-1.webp
+  - /images/products/coc-2-lop-kraft-12oz-400ml-2.webp
+  - /images/products/coc-2-lop-kraft-12oz-400ml-3.webp
   - /images/products/coc-2-lop-kraft-12oz-400ml-4.svg
 applications:
   - Coffee

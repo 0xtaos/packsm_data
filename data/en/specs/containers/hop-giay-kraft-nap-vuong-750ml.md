@@ -11,8 +11,8 @@ certifications:
   - BPA-Free
 gallery:
   - /images/products/hop-giay-kraft-nap-vuong-750ml.webp
-  - /images/products/hop-giay-kraft-nap-vuong-750ml-1.jpg
-  - /images/products/hop-giay-kraft-nap-vuong-750ml-2.jpg
+  - /images/products/hop-giay-kraft-nap-vuong-750ml-1.webp
+  - /images/products/hop-giay-kraft-nap-vuong-750ml-2.webp
   - /images/products/hop-giay-kraft-nap-vuong-750ml-3.webp
 applications:
   - Rice Boxes

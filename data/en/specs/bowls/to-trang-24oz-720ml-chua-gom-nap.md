@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-trang-24oz-720ml-chua-gom-nap.jpg
-  - /images/products/to-trang-24oz-720ml-chua-gom-nap-1.jpg
-  - /images/products/to-trang-24oz-720ml-chua-gom-nap-2.jpg
-  - /images/products/to-trang-24oz-720ml-chua-gom-nap-3.jpg
+  - /images/products/to-trang-24oz-720ml-chua-gom-nap.webp
+  - /images/products/to-trang-24oz-720ml-chua-gom-nap-1.webp
+  - /images/products/to-trang-24oz-720ml-chua-gom-nap-2.webp
+  - /images/products/to-trang-24oz-720ml-chua-gom-nap-3.webp
 applications:
   - Special Pho
   - Individual Hot Pot

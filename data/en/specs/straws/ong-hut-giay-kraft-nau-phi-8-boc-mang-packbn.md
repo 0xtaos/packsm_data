@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn.jpg
-  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn-1.jpg
-  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn-2.jpg
-  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn-3.jpg
-  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn-4.jpg
+  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn.webp
+  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn-1.webp
+  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn-2.webp
+  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn-3.webp
+  - /images/products/ong-hut-giay-kraft-nau-phi-8-boc-mang-packbn-4.webp
 applications:
   - Bubble Tea
   - Smoothies

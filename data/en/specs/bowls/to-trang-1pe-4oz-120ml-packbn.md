@@ -10,16 +10,16 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-trang-1pe-4oz-120ml-packbn.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-1.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-2.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-3.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-4.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-5.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-6.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-7.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-8.jpg
-  - /images/products/to-trang-1pe-4oz-120ml-packbn-9.jpg
+  - /images/products/to-trang-1pe-4oz-120ml-packbn.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-1.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-2.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-3.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-4.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-5.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-6.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-7.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-8.webp
+  - /images/products/to-trang-1pe-4oz-120ml-packbn-9.webp
 applications:
   - Ice Cream
   - Yogurt

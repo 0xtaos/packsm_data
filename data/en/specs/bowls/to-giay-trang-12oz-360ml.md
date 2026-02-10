@@ -10,11 +10,11 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-trang-12oz-360ml.jpg
-  - /images/products/to-giay-trang-12oz-360ml-1.jpg
-  - /images/products/to-giay-trang-12oz-360ml-2.jpg
-  - /images/products/to-giay-trang-12oz-360ml-3.jpg
-  - /images/products/to-giay-trang-12oz-360ml-4.jpg
+  - /images/products/to-giay-trang-12oz-360ml.webp
+  - /images/products/to-giay-trang-12oz-360ml-1.webp
+  - /images/products/to-giay-trang-12oz-360ml-2.webp
+  - /images/products/to-giay-trang-12oz-360ml-3.webp
+  - /images/products/to-giay-trang-12oz-360ml-4.webp
 applications:
   - Pho
   - Noodles

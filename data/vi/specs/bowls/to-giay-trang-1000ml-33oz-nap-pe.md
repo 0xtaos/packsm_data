@@ -10,10 +10,10 @@ certifications:
   - LFGB
   - BPA-Free
 gallery:
-  - /images/products/to-giay-trang-1000ml-33oz-nap-pe.jpg
-  - /images/products/to-giay-trang-1000ml-33oz-nap-pe-1.jpg
-  - /images/products/to-giay-trang-1000ml-33oz-nap-pe-2.jpg
-  - /images/products/to-giay-trang-1000ml-33oz-nap-pe-3.jpg
+  - /images/products/to-giay-trang-1000ml-33oz-nap-pe.webp
+  - /images/products/to-giay-trang-1000ml-33oz-nap-pe-1.webp
+  - /images/products/to-giay-trang-1000ml-33oz-nap-pe-2.webp
+  - /images/products/to-giay-trang-1000ml-33oz-nap-pe-3.webp
 applications:
   - Kem
   - Sữa chua
