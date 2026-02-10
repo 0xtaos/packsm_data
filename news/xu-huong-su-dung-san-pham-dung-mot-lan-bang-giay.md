@@ -4,7 +4,7 @@ slug: "xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay.webp"
+featuredImage: "/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay2.webp"
 ---
 Năm 2024 đã chứng kiến sự gia tăng của nhận thức và hành động đối với bảo vệ môi trường, và một trong những xu hướng đáng chú ý là việc sử dụng sản phẩm dùng một lần bằng giấy. Dưới đây là một cái nhìn tổng quan về môi trường trong năm 2024 và tại sao việc sử dụng sản phẩm dùng một lần bằng giấy là một phần của xu hướng này:
 
