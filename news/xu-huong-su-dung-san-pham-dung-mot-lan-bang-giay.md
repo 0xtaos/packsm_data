@@ -44,7 +44,7 @@ Sử dụng sản phẩm dùng một lần bằng giấy mang lại nhiều lợ
 
 ## **Khả năng Tái Chế và Tái Sử Dụng**
 
-![sản phẩm dùng một lần bằng giấy](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-5.jpeg)sản phẩm dùng một lần bằng giấy
+![sản phẩm dùng một lần bằng giấy](/news/images/xu-huong-su-dung-san-pham-dung-mot-lan-bang-giay-image-5.webp)sản phẩm dùng một lần bằng giấy
 khả năng tái chế và tái sử dụng của sản phẩm dùng một lần bằng giấy là một lợi ích quan trọng trong việc bảo vệ môi trường. Dưới đây là một số điểm nổi bật về khả năng tái chế và tái sử dụng của sản phẩm giấy:
 
 **Sản Xuất từ Nguyên Liệu Tái Chế:** Đa số các sản phẩm giấy dùng một lần được sản xuất từ nguyên liệu tái chế như giấy tái chế, giấy từ bã mía, hoặc giấy từ các loại cây trồng tái sinh. Việc sử dụng nguyên liệu tái chế giúp giảm áp lực lên các nguồn tài nguyên tự nhiên và hỗ trợ quá trình tái chế rác thải.
