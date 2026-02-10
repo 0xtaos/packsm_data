@@ -4,7 +4,7 @@ slug: "lieu-coc-giay-co-thuc-su-bao-ve-moi-truong-nhu-ban-nghi"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/lieu-coc-giay-co-thuc-su-bao-ve-moi-truong-nhu-ban-nghi-featured.webp"
+featuredImage: "/news/images/lieu-coc-giay-co-thuc-su-bao-ve-moi-truong-nhu-ban-nghi.webp"
 ---
 Trong thời đại ngày nay, vấn đề bảo vệ môi trường đang trở nên ngày càng quan trọng và được quan tâm nhiều hơn. Các biện pháp bảo vệ môi trường được đề xuất và triển khai một cách nhanh chóng, trong đó việc sử dụng cốc giấy thay thế cho cốc nhựa đang trở nên phổ biến. Tuy nhiên, liệu cốc giấy có thực sự bảo vệ môi trường như chúng ta nghĩ hay không?
 

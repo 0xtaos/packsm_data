@@ -4,7 +4,7 @@ slug: "ong-hut-giay-su-lua-chon-bao-ve-moi-truong"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/ong-hut-giay-su-lua-chon-bao-ve-moi-truong-featured.webp"
+featuredImage: "/news/images/ong-hut-giay-su-lua-chon-bao-ve-moi-truong.webp"
 ---
 [Ống hút giấy Packbn](https://www.facebook.com/Packbn) đã trở thành một biểu tượng của sự chuyển đổi đối với môi trường và phong cách sống bền vững. Những chiếc ống hút này không chỉ là một công cụ tiện ích trong việc thưởng thức đồ uống mà còn là biểu tượng của sự cam kết của con người đối với bảo vệ môi trường. Trong một thời đại đầy nhựa và ô nhiễm, ống hút giấy nổi bật là một giải pháp thân thiện với môi trường và đang thu hút sự quan tâm ngày càng tăng từ cộng đồng toàn cầu.
 

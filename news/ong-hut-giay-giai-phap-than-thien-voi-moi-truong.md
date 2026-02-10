@@ -4,7 +4,7 @@ slug: "ong-hut-giay-giai-phap-than-thien-voi-moi-truong"
 excerpt: ""
 date: "2024-01-15"
 author: "PackSM Team"
-featuredImage: "/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong-featured.webp"
+featuredImage: "/news/images/ong-hut-giay-giai-phap-than-thien-voi-moi-truong.webp"
 ---
 ## Lịch sử và xuất xứ của ống hút giấy
 
